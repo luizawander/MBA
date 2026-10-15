@@ -1,0 +1,79 @@
+{
+  "camada": "Bronze",
+  "data_ingestao": "2026-10-11T10:42:01.654384",
+  "descricao": "Arquivos originais preservados sem modificação, mantendo integridade e fidelidade aos dados de origem.",
+  "arquivos": [
+    {
+      "nome_arquivo": "clientes_corrigido.csv",
+      "caminho_bronze": "lakehouse/bronze/clientes_corrigido.csv",
+      "tamanho_bytes": 1189107,
+      "tamanho_mb": 1.13,
+      "sha256": "4569c03725a1ac79af5b5a75336bf8fc23aeaf767482ae4a085313acf2ad33ee",
+      "formato": "csv",
+      "data_copia": "2026-10-11T10:42:01.698012"
+    },
+    {
+      "nome_arquivo": "produtos_corrigido.csv",
+      "caminho_bronze": "lakehouse/bronze/produtos_corrigido.csv",
+      "tamanho_bytes": 70929,
+      "tamanho_mb": 0.07,
+      "sha256": "5120548eb79a563b8019e57de934711fe12672200975f900729c3a7e4327243c",
+      "formato": "csv",
+      "data_copia": "2026-10-11T10:42:01.743033"
+    },
+    {
+      "nome_arquivo": "vendas_corrigido.csv",
+      "caminho_bronze": "lakehouse/bronze/vendas_corrigido.csv",
+      "tamanho_bytes": 5187640,
+      "tamanho_mb": 4.95,
+      "sha256": "3f32333ad45da0bd3d40a67dd5fc248087759c819387349e4204b3aae4617c0e",
+      "formato": "csv",
+      "data_copia": "2026-10-11T10:42:01.796989"
+    },
+    {
+      "nome_arquivo": "avaliacoes_corrigido.csv",
+      "caminho_bronze": "lakehouse/bronze/avaliacoes_corrigido.csv",
+      "tamanho_bytes": 3027361,
+      "tamanho_mb": 2.89,
+      "sha256": "18b46d77de7ceab37e5602c3dd2785cf799e73670f6194d71b1f6c4282f72152",
+      "formato": "csv",
+      "data_copia": "2026-10-11T10:42:01.826471"
+    },
+    {
+      "nome_arquivo": "avaliacoes_texto_corrigido.txt",
+      "caminho_bronze": "lakehouse/bronze/avaliacoes_texto_corrigido.txt",
+      "tamanho_bytes": 5419945,
+      "tamanho_mb": 5.17,
+      "sha256": "e96c8d94291f30253b67e1eb3df9f5c2e187d3510a5b7939a9dda306f9fabc87",
+      "formato": "txt",
+      "data_copia": "2026-10-11T10:42:01.874140"
+    },
+    {
+      "nome_arquivo": "atendimento_corrigido_final.txt",
+      "caminho_bronze": "lakehouse/bronze/atendimento_corrigido_final.txt",
+      "tamanho_bytes": 9167294,
+      "tamanho_mb": 8.74,
+      "sha256": "00167561b46398f9fa07cd35ce29f30972ecfe682c98283505703592c8db1490",
+      "formato": "txt",
+      "data_copia": "2026-10-11T10:42:01.924419"
+    },
+    {
+      "nome_arquivo": "eventos_web_app_corrigido_final.json",
+      "caminho_bronze": "lakehouse/bronze/eventos_web_app_corrigido_final.json",
+      "tamanho_bytes": 31895404,
+      "tamanho_mb": 30.42,
+      "sha256": "cee37917ced3cdf06be5b1b125faa2357f99e57cae0a3ba95184e84922c6a9b9",
+      "formato": "json",
+      "data_copia": "2026-10-11T10:42:02.072719"
+    },
+    {
+      "nome_arquivo": "LEIA-ME_CORRECOES_DATASETS.txt",
+      "caminho_bronze": "lakehouse/bronze/LEIA-ME_CORRECOES_DATASETS.txt",
+      "tamanho_bytes": 1709,
+      "tamanho_mb": 0.0,
+      "sha256": "45b80041e8e409609886a388575acd15f8eefdbec75bbe6e7abbc4e9ef1716a3",
+      "formato": "txt",
+      "data_copia": "2026-10-11T10:42:02.157822"
+    }
+  ]
+}

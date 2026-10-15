@@ -1,0 +1,36 @@
+PACOTE DE DATASETS CORRIGIDOS — MINIPROJETO LAKEHOUSE
+
+1. vendas_corrigido.csv
+- FK cliente_id inválida corrigida: 1
+- Datas de venda inválidas/anteriores ao cadastro corrigidas: 29987
+- Validação final: FK inválida=0; data inválida=0; venda antes do cadastro=0.
+
+2. eventos_web_app_corrigido_final.json
+- Eventos purchase alinhados temporalmente à venda vinculada por venda_id.
+- user_id, product_id e amount dos purchases alinhados à venda vinculada.
+- session_id reconstruído para representar jornadas de navegação.
+- Eventos precedentes foram colocados na mesma sessão das compras quando havia eventos do mesmo usuário.
+- Páginas foram ajustadas de acordo com o tipo de evento.
+- Sessões finais: 71442 para 120000 eventos.
+- Compras sem venda válida: 0.
+- Compras com timestamp diferente da venda vinculada: 0.
+- Compras com pelo menos um comportamento anterior na mesma sessão: 10946 de 14944.
+
+3. atendimento_corrigido_final.txt
+- Datas anteriores ao cadastro corrigidas: 12475.
+- Registros ainda anteriores ao cadastro: 0.
+
+4. clientes_corrigido.csv
+- Sem alteração; não havia bloqueio estrutural identificado.
+
+5. produtos_corrigido.csv
+- Sem alteração estrutural; pequenas inconsistências de padronização permanecem como exercício de limpeza.
+
+6. avaliacoes_corrigido.csv
+- Versão corrigida anteriormente; mantém 50.000 registros e elimina avaliações anteriores ao cadastro.
+
+7. avaliacoes_texto_corrigido.txt
+- Sem alteração estrutural; IDs permanecem compatíveis com avaliacoes_corrigido.csv.
+
+IMPORTANTE
+Foram corrigidos os bloqueios de execução, sem eliminar artificialmente todos os problemas de qualidade que podem ser usados como exercícios pelos alunos.

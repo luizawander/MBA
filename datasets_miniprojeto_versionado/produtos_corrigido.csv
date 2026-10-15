@@ -1,0 +1,1201 @@
+﻿produto_id,produto_nome,categoria,marca,preco_lista,status
+P00001,Smartphone Vitta 0001,Eletrônicos,Prime,178.53,Ativo
+P00002,Perfume Vitta 0002,Beleza,UrbanFit,159.52,Ativo
+P00003,Webcam CasaMais 0003,Informática,Bella,263.26,Ativo
+P00004,SSD Vitta 0004,Informática,NovaTech,164.82,Ativo
+P00005,Barbeador UrbanFit 0005,Beleza,Vitta,292.36,Inativo
+P00006,Cabo Maxx 0006,Acessórios,CasaMais,133.05,Ativo
+P00007,Teclado Bella 0007,Informática,UrbanFit,101.22,Ativo
+P00008,Secador Bella 0008,Beleza,CasaMais,119.86,Ativo
+P00009,Webcam Vitta 0009,Informática,Prime,173.0,Ativo
+P00010,Smartwatch Vitta 0010,Eletrônicos,Bella,126.81,Inativo
+P00011,Roteador Prime 0011,Informática,CasaMais,115.9,Inativo
+P00012,Kit Skincare Prime 0012,Beleza,Prime,43.34,Ativo
+P00013,SSD Vitta 0013,Informática,Maxx,463.31,Inativo
+P00014,Monitor UrbanFit 0014,Eletrônicos,UrbanFit,237.44,Ativo
+P00015,Barbeador Connecta 0015,Beleza,Prime,134.19,Ativo
+P00016,Bicicleta Maxx 0016,Esportes,NovaTech,532.37,Ativo
+P00017,Jogo de Panelas Connecta 0017,Casa,UrbanFit,75.05,Ativo
+P00018,Teclado Vitta 0018,Informática,UrbanFit,122.63,Inativo
+P00019,Aspirador Maxx 0019,Casa,Maxx,256.93,Inativo
+P00020,Mochila UrbanFit 0020,Esportes,UrbanFit,154.92,Ativo
+P00021,Smartwatch UrbanFit 0021,Eletrônicos,Connecta,199.93,Ativo
+P00022,Mochila Maxx 0022,Acessórios,Bella,116.4,Ativo
+P00023,Suporte NovaTech 0023,Acessórios,Bella,72.47,Ativo
+P00024,Secador CasaMais 0024,Beleza,Maxx,106.49,Ativo
+P00025,Smartphone UrbanFit 0025,Eletrônicos,Prime,286.25,Ativo
+P00026,Suporte Prime 0026,Acessórios,NovaTech,256.09,Ativo
+P00027,Cafeteira Maxx 0027,Casa,CasaMais,96.13,Ativo
+P00028,Mochila Bella 0028,Esportes,Prime,43.27,Ativo
+P00029,Air Fryer Vitta 0029,Casa,Bella,193.78,Ativo
+P00030,Aspirador Maxx 0030,Casa,CasaMais,121.92,Ativo
+P00031,Secador Bella 0031,Beleza,Prime,181.51,Ativo
+P00032,Perfume Prime 0032,Eletronicos,Connecta,295.68,Ativo
+P00033,Jogo de Panelas UrbanFit 0033,Casa,Prime,745.12,Ativo
+P00034,Fone Vitta 0034,Eletrônicos,UrbanFit,133.83,Ativo
+P00035,Fone UrbanFit 0035,Eletrônicos,Connecta,147.23,Ativo
+P00036,Roteador NovaTech 0036,Informática,UrbanFit,156.71,Ativo
+P00037,Camiseta CasaMais 0037,Esportes,Vitta,383.24,Ativo
+P00038,Roteador CasaMais 0038,Informática,Vitta,248.63,Ativo
+P00039,Mochila Bella 0039,Esportes,CasaMais,198.02,Ativo
+P00040,Bicicleta Vitta 0040,Esportes,Prime,275.0,Ativo
+P00041,Cafeteira Vitta 0041,Casa,CasaMais,58.92,Ativo
+P00042,Kit Skincare Connecta 0042,Beleza,Vitta,224.5,Ativo
+P00043,Perfume Vitta 0043,Beleza,NovaTech,509.67,Ativo
+P00044,Bicicleta Bella 0044,Esportes,Maxx,210.37,Ativo
+P00045,Secador Vitta 0045,Beleza,Maxx,216.4,Ativo
+P00046,Liquidificador Connecta 0046,Casa,Maxx,202.09,Ativo
+P00047,Maquiagem Prime 0047,Beleza,Bella,639.38,Ativo
+P00048,Aspirador Maxx 0048,Casa,Connecta,850.38,Ativo
+P00049,Carregador Maxx 0049,Acessórios,UrbanFit,150.18,Inativo
+P00050,Secador NovaTech 0050,Beleza,Connecta,183.39,Ativo
+P00051,SSD UrbanFit 0051,Informática,Bella,110.03,Ativo
+P00052,Teclado Vitta 0052,Informática,Maxx,401.95,Inativo
+P00053,Relógio Esportivo Vitta 0053,Esportes,Connecta,286.36,Inativo
+P00054,Tênis CasaMais 0054,Esportes,UrbanFit,40.87,Ativo
+P00055,Bicicleta CasaMais 0055,Esportes,Maxx,250.16,Ativo
+P00056,Tênis Connecta 0056,Esportes,Vitta,137.99,Ativo
+P00057,Perfume Connecta 0057,Beleza,Bella,210.15,Ativo
+P00058,Notebook Maxx 0058,Eletrônicos,UrbanFit,71.04,Inativo
+P00059,Barbeador Connecta 0059,Beleza,Prime,128.69,Inativo
+P00060,Maquiagem NovaTech 0060,Beleza,Connecta,105.03,Ativo
+P00061,Bicicleta Prime 0061,Esportes,NovaTech,184.57,Ativo
+P00062,Secador Vitta 0062,Beleza,NovaTech,150.85,Ativo
+P00063,Webcam Prime 0063,Informática,UrbanFit,228.36,Ativo
+P00064,Aspirador Bella 0064,Casa,UrbanFit,88.31,Inativo
+P00065,Maquiagem Bella 0065,Beleza,Connecta,93.33,Ativo
+P00066,Relógio Esportivo Prime 0066,Esportes,CasaMais,206.98,Inativo
+P00067,Kit Skincare Bella 0067,Beleza,Prime,91.71,Inativo
+P00068,Suporte UrbanFit 0068,Acessórios,UrbanFit,114.11,Ativo
+P00069,Cabo Bella 0069,Acessórios,Maxx,216.21,Inativo
+P00070,Liquidificador Vitta 0070,Casa,UrbanFit,621.03,Inativo
+P00071,Smartphone Maxx 0071,Eletrônicos,CasaMais,94.29,Inativo
+P00072,Bicicleta Prime 0072,Esportes,Prime,53.38,Ativo
+P00073,Ventilador Connecta 0073,Casa,Prime,149.17,Ativo
+P00074,Maquiagem Prime 0074,Beleza,UrbanFit,172.65,Ativo
+P00075,SSD Bella 0075,Informática,NovaTech,654.97,Inativo
+P00076,Carteira Prime 0076,Acessórios,Prime,0.0,Ativo
+P00077,Fone Bella 0077,Eletrônicos,Connecta,212.99,Ativo
+P00078,Tablet CasaMais 0078,Eletrônicos,Connecta,254.08,Ativo
+P00079,Tablet Connecta 0079,Eletrônicos,Connecta,146.79,Ativo
+P00080,SSD Maxx 0080,Informática,Vitta,81.36,Ativo
+P00081,Bicicleta Prime 0081,Esportes,Maxx,517.01,Ativo
+P00082,Tablet NovaTech 0082,Eletrônicos,Prime,142.43,Ativo
+P00083,Carregador Maxx 0083,Acessórios,NovaTech,452.62,Ativo
+P00084,Mochila Maxx 0084,Esportes,Vitta,160.88,Inativo
+P00085,Aspirador Maxx 0085,Casa,Maxx,385.43,Inativo
+P00086,Tênis NovaTech 0086,Esportes,NovaTech,413.51,Inativo
+P00087,Cabo CasaMais 0087,Acessórios,Connecta,133.44,Ativo
+P00088,Secador Bella 0088,Beleza,Connecta,179.79,Inativo
+P00089,Tablet NovaTech 0089,Eletrônicos,Connecta,252.61,Ativo
+P00090,Mochila Maxx 0090,Acessórios,NovaTech,380.38,Ativo
+P00091,Mouse UrbanFit 0091,Informática,NovaTech,76.93,Ativo
+P00092,Tênis Bella 0092,Esportes,NovaTech,817.25,Ativo
+P00093,Ventilador Prime 0093,Casa,NovaTech,128.36,Ativo
+P00094,Mochila Connecta 0094,Acessórios,Maxx,118.11,Ativo
+P00095,Carregador UrbanFit 0095,Acessórios,NovaTech,575.23,Ativo
+P00096,Mochila UrbanFit 0096,Esportes,Bella,123.75,Inativo
+P00097,Mouse NovaTech 0097,Informática,Connecta,320.07,Inativo
+P00098,Camiseta Connecta 0098,Esportes,Prime,99.3,Inativo
+P00099,Webcam Connecta 0099,Informática,UrbanFit,301.86,Inativo
+P00100,Cafeteira Bella 0100,Casa,Bella,121.64,Ativo
+P00101,Carregador Prime 0101,Acessórios,CasaMais,181.67,Ativo
+P00102,Jogo de Panelas Connecta 0102,Casa,Bella,397.16,Ativo
+P00103,Mouse Connecta 0103,Informática,CasaMais,73.83,Ativo
+P00104,Smartphone Vitta 0104,Eletrônicos,NovaTech,366.42,Inativo
+P00105,Cabo Connecta 0105,Acessórios,NovaTech,181.93,Ativo
+P00106,Relógio Esportivo Bella 0106,Esportes,Connecta,349.33,Ativo
+P00107,Kit Skincare Bella 0107,Beleza,Bella,55.13,Ativo
+P00108,Carteira NovaTech 0108,Acessórios,Maxx,196.79,Ativo
+P00109,Roteador UrbanFit 0109,Informática,CasaMais,128.37,Ativo
+P00110,Smartwatch Vitta 0110,Eletrônicos,NovaTech,121.56,Inativo
+P00111,Carteira UrbanFit 0111,Acessórios,Bella,85.95,Ativo
+P00112,SSD Maxx 0112,Informática,CasaMais,189.34,Ativo
+P00113,Mochila NovaTech 0113,Acessórios,UrbanFit,63.31,Ativo
+P00114,HD Externo Bella 0114,Informática,Vitta,67.03,Inativo
+P00115,Smartwatch UrbanFit 0115,Eletrônicos,Prime,47.81,Inativo
+P00116,Webcam Bella 0116,Informática,Prime,58.68,Inativo
+P00117,Mochila CasaMais 0117,Esportes,CasaMais,108.51,Ativo
+P00118,Mochila Maxx 0118,Esportes,UrbanFit,70.92,Inativo
+P00119,Ventilador Vitta 0119,Casa,UrbanFit,100.11,Ativo
+P00120,Monitor UrbanFit 0120,Eletrônicos,Bella,89.0,Ativo
+P00121,Mouse NovaTech 0121,Informática,Bella,114.66,Ativo
+P00122,Barbeador CasaMais 0122,Beleza,Connecta,160.88,Ativo
+P00123,Smart TV NovaTech 0123,Eletrônicos,NovaTech,127.55,Ativo
+P00124,Roteador Prime 0124,Informática,Maxx,287.31,Ativo
+P00125,SSD Bella 0125,Informática,Prime,93.9,Ativo
+P00126,Roteador CasaMais 0126,Informática,NovaTech,354.78,Inativo
+P00127,Carregador Bella 0127,Acessórios,Bella,44.33,Ativo
+P00128,Mouse Maxx 0128,Informática,Vitta,217.19,Ativo
+P00129,Air Fryer NovaTech 0129,Casa,UrbanFit,68.14,Ativo
+P00130,SSD Vitta 0130,Informática,UrbanFit,64.47,Ativo
+P00131,Webcam Prime 0131,Informática,Prime,226.76,Ativo
+P00132,Smartphone NovaTech 0132,Eletrônicos,CasaMais,173.19,Ativo
+P00133,Cabo Connecta 0133,Acessórios,Connecta,598.87,Ativo
+P00134,Maquiagem UrbanFit 0134,Beleza,NovaTech,109.19,Inativo
+P00135,Tênis Prime 0135,Esportes,CasaMais,107.47,Inativo
+P00136,Notebook UrbanFit 0136,Eletrônicos,UrbanFit,74.01,Ativo
+P00137,Carregador Maxx 0137,Acessórios,Prime,174.28,Ativo
+P00138,Air Fryer Connecta 0138,Casa,Bella,410.89,Ativo
+P00139,Notebook UrbanFit 0139,Eletrônicos,NovaTech,72.43,Ativo
+P00140,Monitor NovaTech 0140,Eletrônicos,Bella,89.88,Inativo
+P00141,Ventilador CasaMais 0141,Casa,NovaTech,174.83,Ativo
+P00142,SSD UrbanFit 0142,Informática,Prime,400.85,Inativo
+P00143,Mochila CasaMais 0143,Esportes,UrbanFit,151.5,Inativo
+P00144,Liquidificador NovaTech 0144,Casa,NovaTech,339.54,Inativo
+P00145,SSD Bella 0145,Informática,Bella,200.71,Ativo
+P00146,Cafeteira Prime 0146,Casa,CasaMais,274.75,Inativo
+P00147,Kit Skincare Vitta 0147,Beleza,UrbanFit,163.59,Ativo
+P00148,Liquidificador Connecta 0148,Casa,Vitta,81.85,Ativo
+P00149,Smartwatch Bella 0149,Eletrônicos,Bella,341.83,Ativo
+P00150,Relógio Esportivo Prime 0150,Esportes,UrbanFit,257.35,Ativo
+P00151,Barbeador Vitta 0151,Beleza,UrbanFit,226.59,Ativo
+P00152,Mouse Prime 0152,Informática,NovaTech,91.31,Ativo
+P00153,Tênis Connecta 0153,Esportes,Maxx,44.21,Ativo
+P00154,Liquidificador Vitta 0154,Casa,Bella,267.05,Inativo
+P00155,Roteador UrbanFit 0155,Informática,Prime,57.65,Inativo
+P00156,Relógio Esportivo Prime 0156,Esportes,Vitta,111.85,Ativo
+P00157,Kit Skincare Vitta 0157,Beleza,Prime,254.39,Ativo
+P00158,Carregador Maxx 0158,Acessórios,NovaTech,48.7,Ativo
+P00159,Smart TV Vitta 0159,Eletrônicos,Prime,195.84,Ativo
+P00160,Kit Skincare Vitta 0160,Beleza,Connecta,117.43,Ativo
+P00161,Smartphone Prime 0161,Eletrônicos,NovaTech,148.14,Ativo
+P00162,Mouse Prime 0162,Informática,Vitta,45.2,Inativo
+P00163,Tablet UrbanFit 0163,Eletrônicos,Vitta,154.68,Ativo
+P00164,Maquiagem Maxx 0164,Beleza,Prime,414.63,Ativo
+P00165,Suporte NovaTech 0165,Acessórios,Connecta,156.52,Inativo
+P00166,Perfume Vitta 0166,Beleza,Bella,795.22,Ativo
+P00167,Webcam NovaTech 0167,Informática,Connecta,75.32,Ativo
+P00168,Secador Maxx 0168,Beleza,Prime,926.58,Ativo
+P00169,Carteira NovaTech 0169,Acessórios,UrbanFit,357.78,Ativo
+P00170,Bicicleta CasaMais 0170,Esportes,UrbanFit,658.21,Ativo
+P00171,Teclado UrbanFit 0171,Informática,Connecta,714.49,Ativo
+P00172,Carregador UrbanFit 0172,Acessórios,Maxx,283.38,Inativo
+P00173,Air Fryer CasaMais 0173,Casa,Connecta,65.76,Inativo
+P00174,Relógio Esportivo Maxx 0174,Esportes,CasaMais,227.61,Ativo
+P00175,Mochila UrbanFit 0175,Acessórios,Prime,44.58,Ativo
+P00176,Relógio Esportivo Bella 0176,Esportes,Prime,422.17,Ativo
+P00177,Carteira Prime 0177,Acessórios,Connecta,929.46,Ativo
+P00178,Maquiagem Prime 0178,Beleza,Bella,273.16,Ativo
+P00179,Suporte Prime 0179,Acessórios,UrbanFit,127.81,Ativo
+P00180,Roteador Maxx 0180,Informática,Prime,400.06,Ativo
+P00181,Aspirador NovaTech 0181,Casa,CasaMais,371.59,Ativo
+P00182,Barbeador Maxx 0182,Beleza,Bella,247.16,Ativo
+P00183,Smartphone Connecta 0183,Eletrônicos,Vitta,283.58,Ativo
+P00184,Liquidificador NovaTech 0184,Casa,CasaMais,106.27,Ativo
+P00185,Tênis Connecta 0185,Esportes,Prime,242.01,Inativo
+P00186,Mochila Maxx 0186,Acessórios,Connecta,316.44,Ativo
+P00187,Smartwatch Prime 0187,Eletrônicos,Maxx,164.12,Ativo
+P00188,Mouse Connecta 0188,Informática,Connecta,137.74,Ativo
+P00189,Roteador Connecta 0189,Informática,UrbanFit,197.01,Ativo
+P00190,Monitor Connecta 0190,Eletrônicos,UrbanFit,226.47,Ativo
+P00191,Suporte Connecta 0191,Acessórios,CasaMais,205.44,Ativo
+P00192,Roteador Vitta 0192,Informática,Prime,243.83,Ativo
+P00193,Teclado Maxx 0193,Informática,Maxx,194.72,Ativo
+P00194,Mochila NovaTech 0194,Esportes,Prime,264.35,Ativo
+P00195,Tablet CasaMais 0195,Eletrônicos,NovaTech,327.5,Ativo
+P00196,Barbeador Maxx 0196,Beleza,Maxx,175.04,Ativo
+P00197,Maquiagem Vitta 0197,Beleza,NovaTech,181.44,Inativo
+P00198,Monitor Vitta 0198,Eletrônicos,Connecta,154.76,Ativo
+P00199,Air Fryer CasaMais 0199,Casa,UrbanFit,106.32,Ativo
+P00200,Mouse Vitta 0200,Informática,Prime,183.71,Ativo
+P00201,Webcam UrbanFit 0201,Informática,Maxx,34.97,Inativo
+P00202,Mochila Vitta 0202,Acessórios,UrbanFit,254.5,Ativo
+P00203,Maquiagem CasaMais 0203,Beleza,Prime,790.33,Inativo
+P00204,Roteador Connecta 0204,Informática,NovaTech,125.94,Inativo
+P00205,Smartwatch UrbanFit 0205,Eletrônicos,Maxx,508.3,Inativo
+P00206,Smartphone NovaTech 0206,Eletrônicos,UrbanFit,213.08,Ativo
+P00207,Tênis UrbanFit 0207,Esportes,NovaTech,84.05,Ativo
+P00208,Relógio Esportivo Vitta 0208,Esportes,CasaMais,86.02,Ativo
+P00209,Secador Connecta 0209,Beleza,Connecta,253.01,Ativo
+P00210,Webcam Vitta 0210,Informática,Bella,125.3,Ativo
+P00211,Barbeador Connecta 0211,Beleza,CasaMais,767.38,Ativo
+P00212,Suporte Maxx 0212,Acessórios,Maxx,162.4,Ativo
+P00213,Smart TV CasaMais 0213,Eletrônicos,CasaMais,69.55,Ativo
+P00214,Carteira Bella 0214,Acessórios,Maxx,156.61,Ativo
+P00215,Carteira Bella 0215,Acessórios,Bella,53.22,Ativo
+P00216,Bicicleta UrbanFit 0216,Esportes,Connecta,37.78,Ativo
+P00217,Carregador NovaTech 0217,Acessórios,Maxx,185.03,Ativo
+P00218,Liquidificador Maxx 0218,Casa,Vitta,175.94,Ativo
+P00219,Jogo de Panelas Maxx 0219,Casa,NovaTech,289.24,Ativo
+P00220,Jogo de Panelas UrbanFit 0220,Casa,UrbanFit,160.08,Ativo
+P00221,Mouse UrbanFit 0221,Informática,NovaTech,942.5,Ativo
+P00222,Relógio Esportivo Connecta 0222,Esportes,Bella,224.67,Ativo
+P00223,Smart TV Maxx 0223,Eletrônicos,CasaMais,498.51,Inativo
+P00224,Relógio Esportivo Prime 0224,Esportes,Maxx,238.03,Ativo
+P00225,Smartwatch Connecta 0225,Eletrônicos,UrbanFit,325.32,Ativo
+P00226,HD Externo NovaTech 0226,Informática,NovaTech,348.79,Ativo
+P00227,Webcam UrbanFit 0227,Informática,UrbanFit,374.74,Ativo
+P00228,Fone NovaTech 0228,Eletrônicos,CasaMais,155.09,Ativo
+P00229,Mochila Bella 0229,Acessórios,Maxx,489.76,Inativo
+P00230,Cabo Bella 0230,Acessórios,Connecta,71.58,Ativo
+P00231,Aspirador Prime 0231,Casa,Maxx,814.93,Ativo
+P00232,Tênis Maxx 0232,Esportes,Bella,97.71,Ativo
+P00233,Air Fryer CasaMais 0233,Casa,Bella,118.94,Inativo
+P00234,Mouse UrbanFit 0234,Informática,NovaTech,69.0,Ativo
+P00235,Cabo UrbanFit 0235,Acessórios,Maxx,175.98,Inativo
+P00236,Webcam Connecta 0236,Informática,Vitta,261.29,Ativo
+P00237,Smartphone Vitta 0237,Eletrônicos,Maxx,342.06,Ativo
+P00238,Mochila Vitta 0238,Acessórios,UrbanFit,233.75,Ativo
+P00239,Mouse CasaMais 0239,Informática,UrbanFit,849.55,Ativo
+P00240,Fone Vitta 0240,Eletrônicos,Vitta,174.07,Ativo
+P00241,Cabo Bella 0241,Acessórios,Vitta,248.99,Ativo
+P00242,Mouse CasaMais 0242,Informática,Bella,680.39,Ativo
+P00243,Monitor CasaMais 0243,Eletrônicos,CasaMais,490.59,Ativo
+P00244,Mochila Vitta 0244,Esportes,Prime,140.95,Ativo
+P00245,Mouse CasaMais 0245,Informática,Connecta,94.7,Ativo
+P00246,Mochila Connecta 0246,Esportes,Maxx,222.66,Ativo
+P00247,Mochila Maxx 0247,Esportes,UrbanFit,150.51,Ativo
+P00248,Camiseta Connecta 0248,Esportes,Connecta,339.95,Ativo
+P00249,Mochila Maxx 0249,Acessórios,Prime,65.37,Inativo
+P00250,Ventilador Connecta 0250,Casa,NovaTech,195.26,Ativo
+P00251,Barbeador CasaMais 0251,Beleza,Connecta,88.24,Ativo
+P00252,Mochila Vitta 0252,Esportes,Prime,197.11,Inativo
+P00253,Relógio Esportivo CasaMais 0253,Esportes,Connecta,396.88,Ativo
+P00254,Air Fryer UrbanFit 0254,Casa,Vitta,1463.39,Ativo
+P00255,Barbeador NovaTech 0255,Beleza,Bella,240.49,Ativo
+P00256,Bicicleta CasaMais 0256,Esportes,Maxx,529.0,Ativo
+P00257,Aspirador Bella 0257,Casa,CasaMais,103.1,Ativo
+P00258,Maquiagem Maxx 0258,Beleza,Prime,33.09,Ativo
+P00259,Mouse Bella 0259,Informática,Maxx,462.94,Inativo
+P00260,Secador Maxx 0260,Beleza,CasaMais,259.39,Ativo
+P00261,Bicicleta UrbanFit 0261,Esportes,Connecta,167.25,Ativo
+P00262,Air Fryer NovaTech 0262,Casa,Bella,123.51,Ativo
+P00263,Tênis UrbanFit 0263,Esportes,Connecta,270.15,Inativo
+P00264,Cafeteira Bella 0264,Casa,Maxx,42.83,Ativo
+P00265,Fone Connecta 0265,Eletrônicos,CasaMais,81.29,Inativo
+P00266,Bicicleta Maxx 0266,Esportes,NovaTech,125.59,Ativo
+P00267,Secador UrbanFit 0267,Beleza,Bella,273.44,Inativo
+P00268,Secador Bella 0268,Beleza,Prime,282.26,Ativo
+P00269,Smartphone Prime 0269,Eletrônicos,Bella,333.72,Inativo
+P00270,Mochila UrbanFit 0270,Esportes,Vitta,182.28,Ativo
+P00271,Aspirador Connecta 0271,Casa,Prime,343.83,Ativo
+P00272,Mochila Prime 0272,Acessórios,CasaMais,76.29,Ativo
+P00273,Smartwatch Connecta 0273,Eletrônicos,UrbanFit,139.58,Ativo
+P00274,Maquiagem Bella 0274,Beleza,Connecta,96.15,Ativo
+P00275,Mochila Vitta 0275,Acessórios,Connecta,288.14,Ativo
+P00276,Jogo de Panelas Prime 0276,Casa,Prime,135.44,Ativo
+P00277,Bicicleta Bella 0277,Esportes,Connecta,308.56,Inativo
+P00278,Mochila Maxx 0278,Acessórios,UrbanFit,267.34,Ativo
+P00279,Tênis Bella 0279,Esportes,UrbanFit,182.17,Ativo
+P00280,Air Fryer Bella 0280,Casa,NovaTech,111.74,Ativo
+P00281,Roteador CasaMais 0281,Informática,Maxx,246.98,Ativo
+P00282,Fone Bella 0282,Eletrônicos,Bella,182.66,Ativo
+P00283,Bicicleta NovaTech 0283,Esportes,Maxx,369.99,Ativo
+P00284,Mochila Maxx 0284,Esportes,Bella,53.07,Ativo
+P00285,Perfume UrbanFit 0285,Beleza,CasaMais,210.32,Ativo
+P00286,Camiseta Vitta 0286,Esportes,CasaMais,143.93,Ativo
+P00287,Air Fryer CasaMais 0287,Casa,UrbanFit,124.48,Inativo
+P00288,Air Fryer Connecta 0288,Casa,Prime,606.74,Ativo
+P00289,Fone Vitta 0289,Eletrônicos,CasaMais,132.06,Ativo
+P00290,Ventilador Bella 0290,Casa,CasaMais,38.5,Ativo
+P00291,SSD Maxx 0291,Informática,Prime,300.64,Ativo
+P00292,Kit Skincare Prime 0292,Beleza,NovaTech,441.84,Ativo
+P00293,Teclado NovaTech 0293,Informática,Prime,282.68,Ativo
+P00294,Tênis UrbanFit 0294,Esportes,Maxx,45.63,Inativo
+P00295,Perfume CasaMais 0295,Beleza,UrbanFit,194.1,Ativo
+P00296,Fone UrbanFit 0296,Eletrônicos,Prime,101.3,Inativo
+P00297,Tênis NovaTech 0297,Esportes,NovaTech,624.04,Ativo
+P00298,Liquidificador Vitta 0298,Casa,Prime,146.43,Inativo
+P00299,Bicicleta Maxx 0299,Esportes,Bella,256.52,Ativo
+P00300,Perfume Connecta 0300,Beleza,Prime,244.51,Ativo
+P00301,Secador NovaTech 0301,Beleza,UrbanFit,382.34,Ativo
+P00302,Ventilador CasaMais 0302,Casa,UrbanFit,608.26,Ativo
+P00303,Secador Maxx 0303,Beleza,UrbanFit,185.09,Ativo
+P00304,Smartphone UrbanFit 0304,Eletrônicos,NovaTech,83.35,Ativo
+P00305,Mochila NovaTech 0305,Acessórios,UrbanFit,675.69,Inativo
+P00306,Cafeteira Maxx 0306,Casa,NovaTech,139.72,Ativo
+P00307,Fone Maxx 0307,Eletrônicos,Connecta,324.6,Ativo
+P00308,Cabo UrbanFit 0308,Acessórios,UrbanFit,149.42,Ativo
+P00309,Mochila Vitta 0309,Esportes,Prime,187.41,Ativo
+P00310,Kit Skincare Bella 0310,Beleza,CasaMais,64.21,Inativo
+P00311,Teclado Connecta 0311,Informática,Prime,177.4,Ativo
+P00312,Teclado Bella 0312,Informática,Vitta,283.24,Ativo
+P00313,Air Fryer Connecta 0313,Casa,UrbanFit,102.93,Ativo
+P00314,Secador Connecta 0314,Beleza,Vitta,504.45,Inativo
+P00315,Kit Skincare UrbanFit 0315,Beleza,UrbanFit,635.65,Inativo
+P00316,Carregador Vitta 0316,Acessórios,CasaMais,212.79,Inativo
+P00317,Camiseta NovaTech 0317,Esportes,Connecta,269.74,Ativo
+P00318,Bicicleta UrbanFit 0318,Esportes,Connecta,263.28,Ativo
+P00319,Mochila Prime 0319,Acessórios,Vitta,142.9,Ativo
+P00320,Air Fryer Connecta 0320,Casa,Maxx,118.41,Ativo
+P00321,Barbeador Bella 0321,Beleza,Maxx,110.63,Ativo
+P00322,Roteador Vitta 0322,Informática,NovaTech,81.44,Ativo
+P00323,Relógio Esportivo Maxx 0323,Esportes,Bella,128.54,Ativo
+P00324,Fone NovaTech 0324,Eletrônicos,CasaMais,427.74,Ativo
+P00325,Barbeador Bella 0325,Beleza,Prime,139.51,Ativo
+P00326,Smartphone Prime 0326,Eletrônicos,Connecta,299.07,Ativo
+P00327,Tênis CasaMais 0327,Esportes,Prime,287.16,Ativo
+P00328,Cabo Bella 0328,Acessórios,Maxx,216.83,Ativo
+P00329,Suporte Vitta 0329,Acessórios,NovaTech,248.32,Ativo
+P00330,Relógio Esportivo Prime 0330,Esportes,Prime,82.36,Ativo
+P00331,Barbeador Prime 0331,Beleza,Connecta,214.95,Inativo
+P00332,Relógio Esportivo Maxx 0332,Esportes,Maxx,128.33,Ativo
+P00333,Air Fryer Connecta 0333,Casa,UrbanFit,498.09,Ativo
+P00334,Cabo Bella 0334,Acessórios,Vitta,281.59,Ativo
+P00335,Barbeador Vitta 0335,Beleza,Connecta,363.75,Inativo
+P00336,Suporte Prime 0336,Acessórios,NovaTech,177.61,Inativo
+P00337,Roteador Vitta 0337,Informática,Maxx,114.24,Ativo
+P00338,Bicicleta NovaTech 0338,Esportes,CasaMais,167.63,Ativo
+P00339,Teclado Vitta 0339,Informática,Maxx,62.86,Ativo
+P00340,Tênis CasaMais 0340,Esportes,Bella,101.74,Ativo
+P00341,Camiseta Maxx 0341,Esportes,CasaMais,70.98,Ativo
+P00342,Barbeador UrbanFit 0342,Beleza,Bella,166.5,Inativo
+P00343,Smartphone NovaTech 0343,Eletrônicos,UrbanFit,381.25,Ativo
+P00344,Roteador Vitta 0344,Informática,Bella,161.42,Ativo
+P00345,Smartwatch Maxx 0345,Eletrônicos,Prime,86.73,Inativo
+P00346,Tablet Bella 0346,Eletrônicos,UrbanFit,305.77,Ativo
+P00347,Roteador Bella 0347,Informática,Vitta,53.6,Ativo
+P00348,Jogo de Panelas NovaTech 0348,Casa,CasaMais,81.35,Ativo
+P00349,Camiseta Connecta 0349,Esportes,CasaMais,246.37,Inativo
+P00350,Jogo de Panelas Connecta 0350,Casa,CasaMais,463.34,Ativo
+P00351,Liquidificador Maxx 0351,Casa,Prime,172.6,Ativo
+P00352,Maquiagem Bella 0352,Beleza,UrbanFit,50.11,Ativo
+P00353,Smartphone CasaMais 0353,Eletrônicos,Maxx,217.17,Ativo
+P00354,Aspirador Bella 0354,Casa,Maxx,821.08,Ativo
+P00355,SSD CasaMais 0355,Informática,Connecta,425.12,Inativo
+P00356,Maquiagem NovaTech 0356,Beleza,Maxx,132.68,Inativo
+P00357,Carteira Maxx 0357,Acessórios,Bella,157.96,Ativo
+P00358,Maquiagem UrbanFit 0358,Beleza,Maxx,305.06,Ativo
+P00359,Mouse Maxx 0359,Informática,Connecta,296.25,Inativo
+P00360,Smartphone NovaTech 0360,Eletrônicos,NovaTech,56.4,Inativo
+P00361,Suporte Maxx 0361,Acessórios,Maxx,213.5,Ativo
+P00362,Smartphone Maxx 0362,Eletrônicos,NovaTech,550.34,Ativo
+P00363,Mouse UrbanFit 0363,Informática,Prime,179.61,Inativo
+P00364,Perfume NovaTech 0364,Beleza,Vitta,158.48,Ativo
+P00365,Smart TV Prime 0365,Eletrônicos,Bella,732.93,Inativo
+P00366,Smartphone Maxx 0366,Eletrônicos,NovaTech,203.49,Ativo
+P00367,Smartphone UrbanFit 0367,Eletrônicos,UrbanFit,346.74,Ativo
+P00368,Mochila UrbanFit 0368,Acessórios,Vitta,364.24,Ativo
+P00369,Teclado Prime 0369,Informática,CasaMais,237.62,Ativo
+P00370,Smartwatch CasaMais 0370,Eletrônicos,CasaMais,110.37,Inativo
+P00371,Mouse Connecta 0371,Informática,CasaMais,52.97,Ativo
+P00372,Kit Skincare Vitta 0372,Beleza,Maxx,117.69,Ativo
+P00373,Smartwatch CasaMais 0373,Eletrônicos,Connecta,141.8,Ativo
+P00374,Smartphone Vitta 0374,Eletrônicos,Bella,445.6,Ativo
+P00375,Mouse UrbanFit 0375,Informática,Prime,306.8,Ativo
+P00376,SSD Connecta 0376,Informática,UrbanFit,100.36,Ativo
+P00377,Roteador Vitta 0377,Informática,CasaMais,146.8,Inativo
+P00378,Secador CasaMais 0378,Beleza,CasaMais,115.6,Inativo
+P00379,Smartwatch UrbanFit 0379,Eletrônicos,Prime,86.47,Ativo
+P00380,Relógio Esportivo Vitta 0380,Esportes,Prime,175.87,Ativo
+P00381,Notebook Connecta 0381,Eletrônicos,UrbanFit,395.91,Ativo
+P00382,Roteador UrbanFit 0382,Informática,Prime,72.02,Ativo
+P00383,Suporte NovaTech 0383,Acessórios,Prime,486.41,Inativo
+P00384,Relógio Esportivo Prime 0384,Esportes,NovaTech,232.27,Ativo
+P00385,Bicicleta Connecta 0385,Esportes,UrbanFit,223.65,Inativo
+P00386,Cafeteira Prime 0386,Casa,UrbanFit,165.35,Ativo
+P00387,Monitor Maxx 0387,Eletrônicos,Prime,214.61,Ativo
+P00388,SSD Maxx 0388,Informática,CasaMais,190.56,Ativo
+P00389,Aspirador UrbanFit 0389,Casa,NovaTech,214.7,Inativo
+P00390,Monitor Bella 0390,Eletrônicos,UrbanFit,134.88,Ativo
+P00391,Aspirador Vitta 0391,Casa,Maxx,323.98,Inativo
+P00392,Carregador Connecta 0392,Acessórios,Connecta,40.89,Ativo
+P00393,Ventilador Maxx 0393,Casa,NovaTech,358.96,Inativo
+P00394,Ventilador NovaTech 0394,Casa,NovaTech,306.32,Ativo
+P00395,SSD Bella 0395,Informática,NovaTech,294.27,Inativo
+P00396,Kit Skincare Maxx 0396,Beleza,Vitta,273.88,Ativo
+P00397,SSD NovaTech 0397,Informática,UrbanFit,248.06,Inativo
+P00398,Cabo CasaMais 0398,Acessórios,NovaTech,352.55,Ativo
+P00399,Carregador CasaMais 0399,Acessórios,Vitta,265.88,Ativo
+P00400,Webcam Connecta 0400,Informática,Prime,151.91,Ativo
+P00401,Cabo Vitta 0401,Acessórios,Prime,123.85,Inativo
+P00402,Perfume Bella 0402,Beleza,Maxx,192.62,Ativo
+P00403,Bicicleta Connecta 0403,Esportes,UrbanFit,578.64,Inativo
+P00404,Roteador Bella 0404,Informática,UrbanFit,360.65,Inativo
+P00405,Cafeteira UrbanFit 0405,Casa,Maxx,289.4,Inativo
+P00406,Barbeador Connecta 0406,Beleza,Connecta,19.9,Ativo
+P00407,Barbeador Connecta 0407,Beleza,Vitta,59.42,Ativo
+P00408,Mochila NovaTech 0408,Esportes,Bella,256.06,Ativo
+P00409,Mochila UrbanFit 0409,Acessórios,CasaMais,487.22,Ativo
+P00410,Liquidificador Vitta 0410,Casa,Prime,139.08,Ativo
+P00411,Bicicleta UrbanFit 0411,Esportes,Bella,208.94,Ativo
+P00412,Air Fryer Prime 0412,Casa,Bella,141.55,Ativo
+P00413,Camiseta Vitta 0413,Esportes,UrbanFit,84.04,Ativo
+P00414,HD Externo Vitta 0414,Informática,Prime,140.87,Inativo
+P00415,Cabo Connecta 0415,Acessórios,UrbanFit,221.26,Ativo
+P00416,Jogo de Panelas NovaTech 0416,Casa,CasaMais,727.96,Ativo
+P00417,Jogo de Panelas Maxx 0417,Casa,Vitta,179.4,Ativo
+P00418,Teclado Prime 0418,Informática,Maxx,200.27,Inativo
+P00419,Smartphone Connecta 0419,Eletrônicos,CasaMais,597.79,Ativo
+P00420,Tablet CasaMais 0420,Eletrônicos,Vitta,317.14,Ativo
+P00421,Aspirador Prime 0421,Casa,Bella,312.16,Ativo
+P00422,Ventilador CasaMais 0422,Casa,CasaMais,322.96,Ativo
+P00423,SSD Vitta 0423,Informática,Prime,142.18,Ativo
+P00424,Teclado Vitta 0424,Informática,Bella,211.23,Inativo
+P00425,Cabo NovaTech 0425,Acessórios,Prime,278.09,Inativo
+P00426,Suporte UrbanFit 0426,Acessórios,CasaMais,145.09,Ativo
+P00427,Smartphone CasaMais 0427,Eletrônicos,NovaTech,178.83,Ativo
+P00428,Suporte Connecta 0428,Acessórios,Connecta,171.01,Ativo
+P00429,Smartphone UrbanFit 0429,Eletrônicos,Maxx,80.02,Inativo
+P00430,Cafeteira NovaTech 0430,Casa,Vitta,570.19,Ativo
+P00431,Maquiagem Connecta 0431,Beleza,UrbanFit,147.65,Inativo
+P00432,Carregador Bella 0432,Acessórios,NovaTech,124.99,Ativo
+P00433,Secador UrbanFit 0433,Beleza,Vitta,261.19,Inativo
+P00434,Secador CasaMais 0434,Beleza,CasaMais,654.41,Ativo
+P00435,Aspirador NovaTech 0435,Casa,Maxx,125.78,Ativo
+P00436,Ventilador Maxx 0436,Casa,CasaMais,195.47,Ativo
+P00437,Tablet UrbanFit 0437,Eletrônicos,Vitta,21.32,Ativo
+P00438,Ventilador Bella 0438,Casa,NovaTech,830.5,Inativo
+P00439,Cabo Vitta 0439,Acessórios,CasaMais,125.22,Ativo
+P00440,Ventilador Bella 0440,Casa,CasaMais,23.42,Inativo
+P00441,Barbeador UrbanFit 0441,Beleza,Prime,436.85,Ativo
+P00442,Tablet Connecta 0442,Eletrônicos,Maxx,74.37,Ativo
+P00443,Ventilador Connecta 0443,Casa,Maxx,70.52,Ativo
+P00444,Ventilador Maxx 0444,Casa,UrbanFit,85.15,Ativo
+P00445,Relógio Esportivo Maxx 0445,Esportes,UrbanFit,129.37,Ativo
+P00446,Mochila Prime 0446,Esportes,Connecta,672.79,Ativo
+P00447,Cabo UrbanFit 0447,Acessórios,CasaMais,66.75,Ativo
+P00448,Smartphone Connecta 0448,Eletrônicos,Vitta,352.14,Ativo
+P00449,Smartwatch Maxx 0449,Eletrônicos,Maxx,108.29,Ativo
+P00450,Mochila Bella 0450,Esportes,NovaTech,124.03,Ativo
+P00451,Maquiagem Vitta 0451,Beleza,Vitta,150.49,Ativo
+P00452,Carregador UrbanFit 0452,Acessórios,Bella,175.76,Ativo
+P00453,Webcam Bella 0453,Informática,NovaTech,252.38,Ativo
+P00454,Carteira Prime 0454,Acessórios,Prime,53.18,Ativo
+P00455,Webcam UrbanFit 0455,Informática,Prime,1118.21,Inativo
+P00456,Carteira Maxx 0456,Acessórios,Maxx,191.37,Ativo
+P00457,Notebook Prime 0457,Eletrônicos,UrbanFit,76.46,Ativo
+P00458,Relógio Esportivo Maxx 0458,Esportes,NovaTech,583.88,Ativo
+P00459,Aspirador CasaMais 0459,Casa,CasaMais,172.0,Inativo
+P00460,Tênis Maxx 0460,Esportes,Bella,168.46,Ativo
+P00461,Relógio Esportivo Bella 0461,Esportes,Vitta,380.47,Ativo
+P00462,Relógio Esportivo UrbanFit 0462,Esportes,CasaMais,44.65,Ativo
+P00463,Tablet Vitta 0463,Eletrônicos,Connecta,325.22,Ativo
+P00464,Ventilador Maxx 0464,Casa,Maxx,227.7,Ativo
+P00465,Perfume Bella 0465,Beleza,Prime,122.19,Ativo
+P00466,Relógio Esportivo CasaMais 0466,Esportes,NovaTech,156.57,Ativo
+P00467,Relógio Esportivo UrbanFit 0467,Esportes,Prime,114.72,Inativo
+P00468,Jogo de Panelas Maxx 0468,Casa,Bella,210.28,Inativo
+P00469,Bicicleta Bella 0469,Esportes,CasaMais,232.66,Inativo
+P00470,Smartwatch UrbanFit 0470,Eletrônicos,NovaTech,79.52,Ativo
+P00471,SSD Maxx 0471,Informática,Connecta,106.32,Ativo
+P00472,Carregador Maxx 0472,Acessórios,Prime,43.62,Ativo
+P00473,Bicicleta Vitta 0473,Esportes,Maxx,80.61,Ativo
+P00474,Monitor Maxx 0474,Eletrônicos,Prime,102.68,Ativo
+P00475,Kit Skincare CasaMais 0475,Beleza,UrbanFit,34.12,Ativo
+P00476,Carregador Prime 0476,Acessórios,Connecta,264.05,Ativo
+P00477,Fone Connecta 0477,Eletrônicos,Bella,333.06,Ativo
+P00478,Smartwatch CasaMais 0478,Eletrônicos,CasaMais,1105.69,Ativo
+P00479,Maquiagem Prime 0479,Beleza,Connecta,264.07,Ativo
+P00480,Liquidificador UrbanFit 0480,Casa,CasaMais,102.46,Ativo
+P00481,Perfume Bella 0481,Beleza,Vitta,194.37,Ativo
+P00482,Cafeteira Prime 0482,Casa,CasaMais,271.69,Ativo
+P00483,Cafeteira CasaMais 0483,Casa,Vitta,257.05,Ativo
+P00484,Perfume Bella 0484,Beleza,NovaTech,90.54,Inativo
+P00485,Carteira Maxx 0485,Acessórios,CasaMais,550.18,Ativo
+P00486,Webcam Prime 0486,Informática,Connecta,328.77,Ativo
+P00487,Aspirador NovaTech 0487,Casa,Maxx,427.53,Ativo
+P00488,Camiseta Maxx 0488,Esportes,Maxx,467.19,Ativo
+P00489,Monitor Connecta 0489,Eletrônicos,Vitta,368.65,Ativo
+P00490,Smart TV Bella 0490,Eletrônicos,CasaMais,307.82,Inativo
+P00491,Cafeteira UrbanFit 0491,Casa,Prime,281.5,Ativo
+P00492,Jogo de Panelas Vitta 0492,Casa,Bella,227.73,Ativo
+P00493,Camiseta Prime 0493,Esportes,Maxx,169.79,Inativo
+P00494,Perfume Maxx 0494,Beleza,NovaTech,221.83,Ativo
+P00495,Tênis Maxx 0495,Esportes,Vitta,102.71,Inativo
+P00496,Perfume Vitta 0496,Beleza,Prime,379.25,Ativo
+P00497,Webcam UrbanFit 0497,Informática,Vitta,135.91,Ativo
+P00498,Fone Vitta 0498,Eletrônicos,Prime,132.55,Ativo
+P00499,Carteira UrbanFit 0499,Acessórios,Vitta,206.14,Ativo
+P00500,Barbeador CasaMais 0500,Beleza,Connecta,218.06,Ativo
+P00501,Jogo de Panelas Connecta 0501,Casa,NovaTech,216.07,Ativo
+P00502,Ventilador Vitta 0502,Casa,Connecta,359.49,Ativo
+P00503,Relógio Esportivo Vitta 0503,Esportes,NovaTech,521.82,Ativo
+P00504,Smartphone UrbanFit 0504,Eletrônicos,NovaTech,109.17,Inativo
+P00505,Fone Bella 0505,Eletrônicos,CasaMais,163.36,Ativo
+P00506,Suporte UrbanFit 0506,Acessórios,Maxx,168.96,Ativo
+P00507,Teclado Bella 0507,Informática,CasaMais,198.66,Inativo
+P00508,Mouse CasaMais 0508,Informática,Vitta,227.61,Ativo
+P00509,Smartphone CasaMais 0509,Eletrônicos,Maxx,96.44,Ativo
+P00510,Kit Skincare NovaTech 0510,Beleza,CasaMais,327.14,Ativo
+P00511,SSD Maxx 0511,Informática,Prime,240.85,Ativo
+P00512,Liquidificador UrbanFit 0512,Casa,Connecta,122.7,Ativo
+P00513,Bicicleta Bella 0513,Esportes,UrbanFit,283.3,Ativo
+P00514,Kit Skincare Prime 0514,Beleza,CasaMais,144.45,Inativo
+P00515,Secador CasaMais 0515,Beleza,Bella,206.68,Ativo
+P00516,SSD Connecta 0516,Informática,Bella,113.81,Ativo
+P00517,Air Fryer UrbanFit 0517,Casa,Maxx,352.23,Inativo
+P00518,Air Fryer Prime 0518,Casa,Bella,180.63,Inativo
+P00519,Barbeador CasaMais 0519,Beleza,CasaMais,250.13,Ativo
+P00520,Camiseta Vitta 0520,Esportes,Prime,299.33,Ativo
+P00521,Secador CasaMais 0521,Beleza,Maxx,369.32,Ativo
+P00522,Perfume Prime 0522,Beleza,Connecta,426.73,Ativo
+P00523,Secador CasaMais 0523,Beleza,Bella,364.83,Ativo
+P00524,Notebook Prime 0524,Eletrônicos,NovaTech,237.33,Ativo
+P00525,Air Fryer Vitta 0525,Casa,NovaTech,234.9,Inativo
+P00526,Relógio Esportivo Vitta 0526,Esportes,Maxx,111.16,Ativo
+P00527,Barbeador Connecta 0527,Beleza,Vitta,352.43,Ativo
+P00528,Mochila UrbanFit 0528,Esportes,CasaMais,62.36,Inativo
+P00529,Ventilador UrbanFit 0529,Casa,CasaMais,347.21,Ativo
+P00530,Mochila Maxx 0530,Esportes,Maxx,112.7,Ativo
+P00531,Smartwatch Prime 0531,Eletrônicos,NovaTech,593.48,Ativo
+P00532,Tablet CasaMais 0532,Eletrônicos,Bella,281.9,Ativo
+P00533,Carregador Prime 0533,Acessórios,NovaTech,241.25,Inativo
+P00534,Camiseta Vitta 0534,Esportes,Bella,206.7,Inativo
+P00535,Mochila Maxx 0535,Esportes,Maxx,507.73,Ativo
+P00536,Air Fryer CasaMais 0536,Casa,UrbanFit,107.9,Ativo
+P00537,Carteira Bella 0537,Acessórios,Connecta,313.34,Ativo
+P00538,Fone Prime 0538,Eletrônicos,Maxx,324.09,Ativo
+P00539,Roteador Maxx 0539,Informática,Vitta,207.87,Inativo
+P00540,Camiseta UrbanFit 0540,Esportes,NovaTech,189.21,Inativo
+P00541,Perfume Bella 0541,Beleza,Bella,595.7,Ativo
+P00542,Kit Skincare Maxx 0542,Beleza,Maxx,96.6,Ativo
+P00543,Tênis NovaTech 0543,Esportes,Connecta,59.65,Ativo
+P00544,SSD CasaMais 0544,Informática,CasaMais,186.36,Ativo
+P00545,Mochila NovaTech 0545,Acessórios,Bella,177.57,Ativo
+P00546,Smart TV Bella 0546,Eletrônicos,Prime,205.95,Ativo
+P00547,Perfume Maxx 0547,Beleza,Bella,130.65,Ativo
+P00548,Notebook CasaMais 0548,Eletrônicos,NovaTech,201.3,Inativo
+P00549,Kit Skincare Connecta 0549,Beleza,Vitta,67.91,Ativo
+P00550,Smartwatch Connecta 0550,Eletrônicos,Maxx,1115.84,Inativo
+P00551,Suporte Maxx 0551,Acessórios,Connecta,89.1,Ativo
+P00552,Roteador Maxx 0552,Informática,Prime,295.56,Inativo
+P00553,Suporte Maxx 0553,Acessórios,CasaMais,186.91,Ativo
+P00554,Relógio Esportivo CasaMais 0554,Esportes,Maxx,201.0,Ativo
+P00555,Perfume NovaTech 0555,Beleza,Vitta,126.38,Ativo
+P00556,Jogo de Panelas Prime 0556,Casa,CasaMais,365.83,Ativo
+P00557,Roteador Bella 0557,Informática,UrbanFit,155.13,Inativo
+P00558,Suporte Vitta 0558,Acessórios,Vitta,171.44,Inativo
+P00559,Roteador Connecta 0559,Informática,UrbanFit,92.26,Ativo
+P00560,Notebook UrbanFit 0560,Eletrônicos,Vitta,586.88,Ativo
+P00561,Monitor Bella 0561,Eletrônicos,NovaTech,164.03,Ativo
+P00562,Air Fryer CasaMais 0562,Casa,CasaMais,126.71,Ativo
+P00563,Aspirador Maxx 0563,Casa,Vitta,202.21,Ativo
+P00564,Smartwatch Bella 0564,Eletrônicos,Bella,955.25,Ativo
+P00565,Ventilador Connecta 0565,Casa,Prime,58.16,Inativo
+P00566,Perfume Bella 0566,Beleza,Vitta,610.66,Ativo
+P00567,Smart TV Connecta 0567,Eletrônicos,UrbanFit,671.88,Inativo
+P00568,Tablet Prime 0568,Eletrônicos,Bella,183.8,Inativo
+P00569,SSD Vitta 0569,Informática,CasaMais,34.79,Ativo
+P00570,Suporte Maxx 0570,Acessórios,Vitta,157.9,Inativo
+P00571,Secador CasaMais 0571,Beleza,Bella,150.63,Ativo
+P00572,Mochila Vitta 0572,Esportes,CasaMais,55.04,Ativo
+P00573,Carteira CasaMais 0573,Acessórios,Prime,48.29,Ativo
+P00574,Suporte Bella 0574,Acessórios,Connecta,472.6,Ativo
+P00575,Aspirador UrbanFit 0575,Casa,NovaTech,306.44,Ativo
+P00576,Webcam NovaTech 0576,Informática,Connecta,83.79,Ativo
+P00577,Smartwatch UrbanFit 0577,Eletrônicos,Connecta,232.74,Ativo
+P00578,Carregador NovaTech 0578,Acessórios,Bella,68.5,Inativo
+P00579,Cabo UrbanFit 0579,Acessórios,Bella,68.98,Inativo
+P00580,Carteira Bella 0580,Acessórios,CasaMais,128.14,Ativo
+P00581,Bicicleta Connecta 0581,Esportes,CasaMais,107.53,Ativo
+P00582,Carregador CasaMais 0582,Acessórios,Maxx,154.34,Inativo
+P00583,Aspirador Maxx 0583,Casa,Maxx,186.42,Ativo
+P00584,Carteira UrbanFit 0584,Acessórios,CasaMais,109.16,Ativo
+P00585,Fone UrbanFit 0585,Eletrônicos,Maxx,305.89,Ativo
+P00586,Mouse CasaMais 0586,Informática,Prime,415.52,Ativo
+P00587,Barbeador NovaTech 0587,Beleza,Maxx,64.46,Inativo
+P00588,Aspirador Bella 0588,Casa,UrbanFit,780.42,Ativo
+P00589,Mochila Connecta 0589,Acessórios,Vitta,147.53,Ativo
+P00590,SSD Prime 0590,Informática,CasaMais,196.35,Inativo
+P00591,Secador Maxx 0591,Beleza,CasaMais,177.24,Ativo
+P00592,Camiseta NovaTech 0592,Esportes,Vitta,266.42,Ativo
+P00593,Suporte Vitta 0593,Acessórios,Vitta,239.83,Ativo
+P00594,Liquidificador Prime 0594,Casa,Maxx,282.84,Inativo
+P00595,Monitor Maxx 0595,Eletrônicos,CasaMais,52.64,Ativo
+P00596,Smart TV Bella 0596,Eletrônicos,CasaMais,902.96,Inativo
+P00597,Kit Skincare NovaTech 0597,Beleza,Maxx,457.6,Ativo
+P00598,Notebook UrbanFit 0598,Eletrônicos,Maxx,69.6,Inativo
+P00599,Jogo de Panelas Connecta 0599,Casa,Connecta,148.72,Ativo
+P00600,Liquidificador Connecta 0600,Casa,Bella,32.47,Ativo
+P00601,Mochila Bella 0601,Acessórios,Maxx,56.54,Ativo
+P00602,Barbeador Vitta 0602,Beleza,Prime,169.7,Ativo
+P00603,Suporte CasaMais 0603,Acessórios,Vitta,284.09,Ativo
+P00604,Roteador Maxx 0604,Informática,Connecta,375.8,Ativo
+P00605,Carteira NovaTech 0605,Acessórios,Bella,72.46,Ativo
+P00606,Liquidificador Vitta 0606,Casa,Maxx,886.36,Ativo
+P00607,Carteira Maxx 0607,Acessórios,Prime,334.51,Ativo
+P00608,Carregador Prime 0608,Acessórios,Connecta,76.93,Ativo
+P00609,Kit Skincare Prime 0609,Beleza,Bella,230.29,Ativo
+P00610,Mouse Connecta 0610,Informática,Vitta,146.75,Ativo
+P00611,Aspirador CasaMais 0611,Casa,Bella,78.97,Ativo
+P00612,Cafeteira Prime 0612,Casa,Maxx,135.87,Ativo
+P00613,Tablet CasaMais 0613,Eletrônicos,UrbanFit,195.31,Ativo
+P00614,Kit Skincare Connecta 0614,Beleza,Bella,60.04,Ativo
+P00615,Mochila Connecta 0615,Acessórios,Prime,164.85,Ativo
+P00616,Carregador Bella 0616,Acessórios,CasaMais,282.0,Ativo
+P00617,Mouse Vitta 0617,Informática,Vitta,434.08,Ativo
+P00618,Jogo de Panelas Connecta 0618,Casa,Maxx,289.8,Inativo
+P00619,Perfume Bella 0619,Beleza,UrbanFit,140.8,Ativo
+P00620,Perfume NovaTech 0620,Beleza,NovaTech,198.65,Ativo
+P00621,Mochila Vitta 0621,Esportes,Connecta,252.38,Ativo
+P00622,Carregador Bella 0622,Acessórios,Vitta,239.91,Inativo
+P00623,Mouse Bella 0623,Informática,Bella,190.71,Ativo
+P00624,Mouse Bella 0624,Informática,Maxx,186.24,Inativo
+P00625,HD Externo Bella 0625,Informática,Vitta,135.11,Ativo
+P00626,Relógio Esportivo CasaMais 0626,Esportes,Maxx,199.66,Ativo
+P00627,Roteador Vitta 0627,Informática,CasaMais,156.37,Inativo
+P00628,Bicicleta UrbanFit 0628,Esportes,Bella,82.75,Ativo
+P00629,Fone Bella 0629,Eletrônicos,Maxx,347.66,Inativo
+P00630,Jogo de Panelas Prime 0630,Casa,UrbanFit,239.63,Ativo
+P00631,HD Externo NovaTech 0631,Informática,Vitta,124.1,Ativo
+P00632,SSD NovaTech 0632,Informática,Bella,171.81,Ativo
+P00633,Bicicleta Prime 0633,Esportes,NovaTech,212.07,Inativo
+P00634,Secador UrbanFit 0634,Beleza,Vitta,343.99,Inativo
+P00635,Ventilador CasaMais 0635,Casa,NovaTech,154.32,Inativo
+P00636,Kit Skincare Maxx 0636,Beleza,Maxx,202.1,Inativo
+P00637,Secador Maxx 0637,Beleza,CasaMais,580.35,Ativo
+P00638,Teclado Prime 0638,Informática,Maxx,19.9,Ativo
+P00639,Maquiagem Bella 0639,Beleza,Bella,98.76,Ativo
+P00640,Bicicleta Maxx 0640,Esportes,Connecta,270.46,Ativo
+P00641,Carregador UrbanFit 0641,Acessórios,Connecta,396.14,Ativo
+P00642,Perfume NovaTech 0642,Beleza,Bella,88.56,Ativo
+P00643,Air Fryer Maxx 0643,Casa,Maxx,100.17,Ativo
+P00644,Barbeador CasaMais 0644,Beleza,Connecta,205.89,Ativo
+P00645,HD Externo Vitta 0645,Informática,Vitta,57.55,Ativo
+P00646,Cafeteira Connecta 0646,Casa,NovaTech,174.86,Inativo
+P00647,Air Fryer Maxx 0647,Casa,UrbanFit,177.95,Ativo
+P00648,Kit Skincare Bella 0648,Beleza,Prime,171.05,Inativo
+P00649,Liquidificador Prime 0649,Casa,NovaTech,97.42,Ativo
+P00650,Secador Connecta 0650,Beleza,Bella,129.52,Ativo
+P00651,Teclado NovaTech 0651,Informática,Vitta,53.78,Inativo
+P00652,Suporte UrbanFit 0652,Acessórios,Connecta,77.5,Ativo
+P00653,Mochila Prime 0653,Acessórios,CasaMais,152.36,Ativo
+P00654,Teclado Connecta 0654,Informática,Maxx,315.9,Ativo
+P00655,Relógio Esportivo Maxx 0655,Esportes,Prime,237.19,Ativo
+P00656,Air Fryer Prime 0656,Casa,Bella,335.34,Inativo
+P00657,Relógio Esportivo Vitta 0657,Esportes,CasaMais,255.97,Ativo
+P00658,Kit Skincare Maxx 0658,Beleza,Maxx,565.41,Ativo
+P00659,Cafeteira UrbanFit 0659,Casa,Vitta,112.72,Ativo
+P00660,Perfume Prime 0660,Beleza,Bella,282.79,Ativo
+P00661,Smartphone UrbanFit 0661,Eletrônicos,Maxx,242.65,Ativo
+P00662,Liquidificador Prime 0662,Casa,NovaTech,206.47,Inativo
+P00663,Maquiagem Maxx 0663,Beleza,Vitta,130.94,Ativo
+P00664,Roteador NovaTech 0664,Informática,Prime,114.75,Ativo
+P00665,Mochila Bella 0665,Esportes,Vitta,146.91,Ativo
+P00666,Fone CasaMais 0666,Eletrônicos,UrbanFit,72.25,Ativo
+P00667,Barbeador NovaTech 0667,Beleza,NovaTech,79.0,Ativo
+P00668,Maquiagem CasaMais 0668,Beleza,Prime,194.15,Ativo
+P00669,Webcam Bella 0669,Informática,UrbanFit,194.41,Ativo
+P00670,Mochila Prime 0670,Esportes,Prime,183.19,Inativo
+P00671,Bicicleta Bella 0671,Esportes,UrbanFit,66.08,Ativo
+P00672,Tablet Connecta 0672,Eletrônicos,Connecta,65.57,Ativo
+P00673,Ventilador Prime 0673,Casa,CasaMais,126.63,Inativo
+P00674,Maquiagem Bella 0674,Beleza,Bella,877.16,Ativo
+P00675,Ventilador CasaMais 0675,Casa,Prime,96.22,Inativo
+P00676,Webcam NovaTech 0676,Informática,Maxx,334.46,Ativo
+P00677,Camiseta Prime 0677,Esportes,CasaMais,139.61,Ativo
+P00678,Secador Vitta 0678,Beleza,CasaMais,80.26,Ativo
+P00679,Ventilador Maxx 0679,Casa,Connecta,195.7,Ativo
+P00680,Suporte CasaMais 0680,Acessórios,CasaMais,112.66,Inativo
+P00681,Aspirador Vitta 0681,Casa,Bella,223.58,Ativo
+P00682,Tablet Prime 0682,Eletrônicos,UrbanFit,216.62,Inativo
+P00683,HD Externo Vitta 0683,Informática,UrbanFit,46.14,Ativo
+P00684,Smartwatch UrbanFit 0684,Eletrônicos,Connecta,293.5,Ativo
+P00685,Bicicleta CasaMais 0685,Esportes,Prime,96.79,Ativo
+P00686,Camiseta NovaTech 0686,Esportes,Bella,230.79,Ativo
+P00687,Teclado UrbanFit 0687,Informática,Vitta,212.36,Ativo
+P00688,Relógio Esportivo Prime 0688,Esportes,Vitta,515.0,Ativo
+P00689,Relógio Esportivo CasaMais 0689,Esportes,Connecta,193.04,Ativo
+P00690,Smart TV Bella 0690,Eletrônicos,Vitta,240.03,Ativo
+P00691,Camiseta CasaMais 0691,Esportes,UrbanFit,75.49,Inativo
+P00692,Mochila Prime 0692,Acessórios,Connecta,510.88,Inativo
+P00693,Relógio Esportivo Maxx 0693,Esportes,NovaTech,278.26,Ativo
+P00694,Kit Skincare UrbanFit 0694,Beleza,Bella,127.17,Ativo
+P00695,Mochila Prime 0695,Acessórios,Vitta,457.61,Ativo
+P00696,Roteador Connecta 0696,Informática,Connecta,332.95,Inativo
+P00697,Tablet NovaTech 0697,Eletrônicos,CasaMais,160.01,Ativo
+P00698,Carteira Prime 0698,Acessórios,NovaTech,48.7,Inativo
+P00699,Barbeador Vitta 0699,Beleza,Vitta,217.77,Ativo
+P00700,Tênis Prime 0700,Esportes,NovaTech,163.16,Ativo
+P00701,Cabo Maxx 0701,Acessórios,Vitta,777.58,Ativo
+P00702,Maquiagem Bella 0702,Beleza,Maxx,270.89,Ativo
+P00703,Teclado Connecta 0703,Informática,Maxx,84.38,Ativo
+P00704,Liquidificador UrbanFit 0704,Casa,NovaTech,397.61,Ativo
+P00705,Bicicleta CasaMais 0705,Esportes,Vitta,97.75,Ativo
+P00706,Teclado NovaTech 0706,Informática,UrbanFit,186.65,Inativo
+P00707,Barbeador Maxx 0707,Beleza,CasaMais,188.48,Ativo
+P00708,Air Fryer Bella 0708,Casa,UrbanFit,106.22,Ativo
+P00709,Smartphone NovaTech 0709,Eletrônicos,UrbanFit,48.83,Inativo
+P00710,Carregador UrbanFit 0710,Acessórios,Bella,309.42,Inativo
+P00711,Secador CasaMais 0711,Beleza,Bella,229.3,Ativo
+P00712,Smart TV Bella 0712,Eletrônicos,CasaMais,138.88,Ativo
+P00713,Bicicleta Bella 0713,Esportes,Maxx,82.92,Ativo
+P00714,Air Fryer Vitta 0714,Casa,Bella,479.52,Ativo
+P00715,Carteira Maxx 0715,Acessórios,Connecta,107.41,Ativo
+P00716,Camiseta Prime 0716,Esportes,Vitta,103.06,Inativo
+P00717,Maquiagem NovaTech 0717,Beleza,Prime,117.7,Ativo
+P00718,Smartphone Prime 0718,Eletrônicos,Prime,232.16,Ativo
+P00719,Teclado Prime 0719,Informática,Maxx,168.48,Ativo
+P00720,Smartphone Prime 0720,Eletrônicos,Connecta,1048.31,Ativo
+P00721,Suporte Prime 0721,Acessórios,Maxx,469.48,Ativo
+P00722,Roteador NovaTech 0722,Informática,Maxx,58.19,Inativo
+P00723,Roteador Connecta 0723,Informática,CasaMais,219.99,Ativo
+P00724,HD Externo CasaMais 0724,Informática,Prime,443.68,Ativo
+P00725,Mochila Vitta 0725,Esportes,Vitta,232.57,Ativo
+P00726,Roteador Prime 0726,Informática,Connecta,82.43,Ativo
+P00727,Perfume NovaTech 0727,Beleza,NovaTech,336.63,Inativo
+P00728,Camiseta UrbanFit 0728,Esportes,Vitta,189.69,Inativo
+P00729,Maquiagem Prime 0729,Beleza,Connecta,142.68,Ativo
+P00730,Cabo Bella 0730,Acessórios,Vitta,214.47,Ativo
+P00731,Kit Skincare Vitta 0731,Beleza,Vitta,214.15,Ativo
+P00732,HD Externo Prime 0732,Informática,NovaTech,91.79,Ativo
+P00733,Carteira Connecta 0733,Acessórios,Connecta,61.09,Ativo
+P00734,Ventilador CasaMais 0734,Casa,Vitta,1033.09,Ativo
+P00735,Liquidificador Vitta 0735,Casa,Connecta,120.26,Ativo
+P00736,Roteador CasaMais 0736,Informática,Vitta,169.45,Ativo
+P00737,Camiseta UrbanFit 0737,Esportes,Bella,254.78,Inativo
+P00738,Jogo de Panelas Prime 0738,Casa,NovaTech,283.36,Ativo
+P00739,Cafeteira CasaMais 0739,Casa,Prime,156.25,Ativo
+P00740,Carteira CasaMais 0740,Acessórios,Bella,207.98,Ativo
+P00741,Perfume CasaMais 0741,Beleza,Maxx,292.97,Ativo
+P00742,Liquidificador Connecta 0742,Casa,Maxx,131.13,Ativo
+P00743,Mochila Maxx 0743,Esportes,Bella,102.26,Inativo
+P00744,Jogo de Panelas UrbanFit 0744,Casa,Bella,124.8,Ativo
+P00745,Kit Skincare CasaMais 0745,Beleza,Vitta,934.9,Ativo
+P00746,Air Fryer Prime 0746,Casa,Connecta,304.48,Ativo
+P00747,Notebook Prime 0747,Eletrônicos,Maxx,107.64,Ativo
+P00748,Smart TV Maxx 0748,Eletrônicos,Connecta,237.7,Inativo
+P00749,Tênis Maxx 0749,Esportes,Bella,195.78,Inativo
+P00750,Ventilador Vitta 0750,Casa,CasaMais,365.48,Inativo
+P00751,Camiseta Prime 0751,Esportes,Maxx,853.39,Inativo
+P00752,HD Externo NovaTech 0752,Informática,Vitta,139.19,Ativo
+P00753,Mouse Connecta 0753,Informática,Connecta,138.72,Ativo
+P00754,Tênis CasaMais 0754,Esportes,NovaTech,203.36,Ativo
+P00755,Mochila Prime 0755,Esportes,CasaMais,144.41,Ativo
+P00756,Tênis Prime 0756,Esportes,UrbanFit,116.03,Inativo
+P00757,Air Fryer Connecta 0757,Casa,NovaTech,468.64,Ativo
+P00758,Perfume Maxx 0758,Beleza,NovaTech,88.67,Inativo
+P00759,Relógio Esportivo CasaMais 0759,Esportes,Connecta,149.58,Ativo
+P00760,Bicicleta Bella 0760,Esportes,Maxx,737.59,Ativo
+P00761,Aspirador CasaMais 0761,Casa,Prime,85.1,Inativo
+P00762,Teclado Connecta 0762,Informática,Vitta,145.36,Ativo
+P00763,Barbeador CasaMais 0763,Beleza,Prime,215.23,Inativo
+P00764,Cafeteira Maxx 0764,Casa,Vitta,136.21,Ativo
+P00765,Monitor CasaMais 0765,Eletrônicos,Bella,156.57,Ativo
+P00766,Monitor Maxx 0766,Eletrônicos,CasaMais,40.04,Ativo
+P00767,Teclado Maxx 0767,Informática,CasaMais,248.87,Ativo
+P00768,Perfume Connecta 0768,Beleza,Prime,336.47,Ativo
+P00769,Relógio Esportivo Prime 0769,Esportes,CasaMais,126.75,Ativo
+P00770,Roteador Prime 0770,Informática,Prime,298.47,Ativo
+P00771,SSD Bella 0771,Informática,Vitta,157.81,Ativo
+P00772,Secador Vitta 0772,Beleza,Vitta,625.74,Ativo
+P00773,Teclado Connecta 0773,Informática,Bella,35.75,Ativo
+P00774,Maquiagem Connecta 0774,Beleza,UrbanFit,168.21,Inativo
+P00775,Carteira Bella 0775,Acessórios,NovaTech,601.44,Ativo
+P00776,Perfume Connecta 0776,Beleza,Vitta,310.91,Ativo
+P00777,Mochila NovaTech 0777,Esportes,Bella,94.13,Ativo
+P00778,Mochila Vitta 0778,Acessórios,NovaTech,103.14,Ativo
+P00779,Tênis NovaTech 0779,Esportes,CasaMais,99.91,Inativo
+P00780,Cafeteira NovaTech 0780,Casa,NovaTech,428.19,Ativo
+P00781,Kit Skincare Bella 0781,Beleza,UrbanFit,793.93,Inativo
+P00782,Cafeteira Bella 0782,Casa,Maxx,131.56,Ativo
+P00783,Maquiagem Prime 0783,Beleza,NovaTech,456.25,Ativo
+P00784,Cafeteira Vitta 0784,Casa,NovaTech,318.33,Ativo
+P00785,Teclado Connecta 0785,Informática,Maxx,217.13,Ativo
+P00786,Bicicleta Prime 0786,Esportes,UrbanFit,122.38,Ativo
+P00787,Barbeador Connecta 0787,Beleza,Bella,163.55,Ativo
+P00788,Bicicleta Maxx 0788,Esportes,Bella,375.08,Ativo
+P00789,Tênis Bella 0789,Esportes,Prime,120.94,Inativo
+P00790,Bicicleta Vitta 0790,Esportes,NovaTech,374.58,Inativo
+P00791,Monitor NovaTech 0791,Eletrônicos,Maxx,125.1,Ativo
+P00792,Barbeador NovaTech 0792,Beleza,Prime,140.59,Ativo
+P00793,Bicicleta CasaMais 0793,Esportes,Vitta,210.21,Ativo
+P00794,Smartwatch CasaMais 0794,Eletrônicos,CasaMais,70.24,Ativo
+P00795,Barbeador Vitta 0795,Beleza,Connecta,157.88,Ativo
+P00796,Carteira Prime 0796,Acessórios,Connecta,393.46,Ativo
+P00797,Perfume NovaTech 0797,Beleza,Vitta,106.06,Ativo
+P00798,Roteador UrbanFit 0798,Informática,UrbanFit,371.08,Ativo
+P00799,Webcam Bella 0799,Informática,Prime,107.94,Inativo
+P00800,HD Externo Bella 0800,Informática,Prime,649.47,Ativo
+P00801,Relógio Esportivo UrbanFit 0801,Esportes,UrbanFit,3167.15,Ativo
+P00802,Monitor Maxx 0802,Eletrônicos,Connecta,64.24,Inativo
+P00803,Bicicleta Connecta 0803,Esportes,Maxx,93.42,Inativo
+P00804,Camiseta Prime 0804,Esportes,Prime,368.43,Ativo
+P00805,Ventilador Prime 0805,Casa,Vitta,208.75,Ativo
+P00806,Mouse Vitta 0806,Informática,Maxx,109.19,Inativo
+P00807,Barbeador Maxx 0807,Beleza,NovaTech,112.8,Ativo
+P00808,Monitor NovaTech 0808,Eletrônicos,CasaMais,152.39,Ativo
+P00809,Jogo de Panelas CasaMais 0809,Casa,Bella,153.08,Ativo
+P00810,Suporte Maxx 0810,Acessórios,Prime,142.97,Ativo
+P00811,Cabo UrbanFit 0811,Acessórios,CasaMais,114.54,Ativo
+P00812,Relógio Esportivo Bella 0812,Esportes,Prime,47.67,Ativo
+P00813,Cabo Maxx 0813,Acessórios,Connecta,197.44,Ativo
+P00814,SSD Bella 0814,Informática,UrbanFit,314.39,Ativo
+P00815,Air Fryer Connecta 0815,Casa,Bella,215.19,Ativo
+P00816,Mouse Prime 0816,Informática,Bella,379.7,Ativo
+P00817,Aspirador Prime 0817,Casa,CasaMais,242.25,Inativo
+P00818,Jogo de Panelas Connecta 0818,Casa,Vitta,165.77,Inativo
+P00819,Smartwatch Vitta 0819,Eletrônicos,UrbanFit,206.63,Ativo
+P00820,Perfume Prime 0820,Beleza,Maxx,158.43,Ativo
+P00821,Perfume NovaTech 0821,Beleza,NovaTech,113.64,Ativo
+P00822,Smartwatch Bella 0822,Eletrônicos,NovaTech,46.9,Ativo
+P00823,Aspirador UrbanFit 0823,Casa,Bella,286.19,Ativo
+P00824,Tênis UrbanFit 0824,Esportes,CasaMais,139.44,Inativo
+P00825,HD Externo Bella 0825,Informática,UrbanFit,57.87,Ativo
+P00826,Ventilador Prime 0826,Casa,Connecta,253.07,Ativo
+P00827,Bicicleta UrbanFit 0827,Esportes,Vitta,29.38,Ativo
+P00828,Carteira Vitta 0828,Acessórios,UrbanFit,191.66,Ativo
+P00829,Mochila Prime 0829,Esportes,Bella,352.33,Inativo
+P00830,Tablet NovaTech 0830,Eletrônicos,Connecta,361.88,Ativo
+P00831,Smartwatch Vitta 0831,Eletrônicos,Maxx,53.79,Inativo
+P00832,Maquiagem NovaTech 0832,Beleza,CasaMais,161.35,Ativo
+P00833,Cabo CasaMais 0833,Acessórios,Bella,197.8,Ativo
+P00834,Maquiagem Connecta 0834,Beleza,UrbanFit,159.75,Ativo
+P00835,Jogo de Panelas Vitta 0835,Casa,Bella,714.03,Ativo
+P00836,Mochila Vitta 0836,Esportes,NovaTech,611.16,Ativo
+P00837,Jogo de Panelas Vitta 0837,Casa,Bella,186.27,Ativo
+P00838,Smartwatch Prime 0838,Eletrônicos,Maxx,455.79,Ativo
+P00839,SSD Bella 0839,Informática,UrbanFit,122.81,Ativo
+P00840,Suporte CasaMais 0840,Acessórios,Prime,267.56,Ativo
+P00841,Mochila UrbanFit 0841,Esportes,Maxx,157.63,Inativo
+P00842,Secador Vitta 0842,Beleza,NovaTech,635.31,Ativo
+P00843,Air Fryer Vitta 0843,Casa,Connecta,385.8,Ativo
+P00844,Suporte Bella 0844,Acessórios,NovaTech,292.96,Inativo
+P00845,HD Externo CasaMais 0845,Informática,Prime,367.53,Ativo
+P00846,Maquiagem Vitta 0846,Beleza,Maxx,81.78,Inativo
+P00847,HD Externo Bella 0847,Informática,CasaMais,120.2,Ativo
+P00848,Suporte Connecta 0848,Acessórios,Maxx,148.48,Ativo
+P00849,Perfume UrbanFit 0849,Beleza,Bella,452.25,Ativo
+P00850,Roteador NovaTech 0850,Informática,NovaTech,180.5,Ativo
+P00851,Tênis Prime 0851,Esportes,Prime,171.84,Ativo
+P00852,Barbeador Vitta 0852,Beleza,Bella,124.22,Inativo
+P00853,Air Fryer Bella 0853,Casa,Bella,172.05,Ativo
+P00854,Perfume UrbanFit 0854,Beleza,Vitta,68.13,Inativo
+P00855,Maquiagem Vitta 0855,Beleza,Prime,421.06,Ativo
+P00856,Aspirador CasaMais 0856,Casa,Vitta,265.76,Ativo
+P00857,Smartphone Vitta 0857,Eletrônicos,Prime,208.82,Ativo
+P00858,Relógio Esportivo Connecta 0858,Esportes,Maxx,149.95,Ativo
+P00859,SSD Prime 0859,Informática,Connecta,111.37,Ativo
+P00860,Smartphone Prime 0860,Eletrônicos,Prime,271.86,Inativo
+P00861,Perfume NovaTech 0861,Beleza,Bella,87.06,Ativo
+P00862,Carteira Maxx 0862,Acessórios,Prime,112.95,Inativo
+P00863,Smart TV Prime 0863,Eletrônicos,Vitta,230.22,Inativo
+P00864,Mouse Prime 0864,Informática,Connecta,148.34,Ativo
+P00865,Bicicleta Bella 0865,Esportes,CasaMais,25.77,Ativo
+P00866,Webcam Prime 0866,Informática,UrbanFit,275.14,Ativo
+P00867,Air Fryer Vitta 0867,Casa,NovaTech,164.62,Inativo
+P00868,Jogo de Panelas NovaTech 0868,Casa,CasaMais,71.32,Ativo
+P00869,Cabo NovaTech 0869,Acessórios,CasaMais,163.54,Ativo
+P00870,Smartwatch Connecta 0870,Eletrônicos,CasaMais,351.54,Ativo
+P00871,Tablet NovaTech 0871,Eletrônicos,Prime,360.67,Ativo
+P00872,Mochila Bella 0872,Acessórios,Connecta,202.76,Inativo
+P00873,Cabo UrbanFit 0873,Acessórios,Vitta,178.24,Ativo
+P00874,Barbeador CasaMais 0874,Beleza,UrbanFit,210.35,Ativo
+P00875,Barbeador Maxx 0875,Beleza,UrbanFit,229.71,Ativo
+P00876,Cabo Bella 0876,Acessórios,UrbanFit,312.54,Ativo
+P00877,Bicicleta Vitta 0877,Esportes,NovaTech,324.44,Ativo
+P00878,Air Fryer NovaTech 0878,Casa,CasaMais,483.09,Inativo
+P00879,Mochila UrbanFit 0879,Esportes,Prime,815.44,Ativo
+P00880,Roteador Vitta 0880,Informática,Prime,1493.7,Ativo
+P00881,Kit Skincare UrbanFit 0881,Beleza,NovaTech,193.06,Ativo
+P00882,Roteador CasaMais 0882,Informática,UrbanFit,141.61,Ativo
+P00883,Camiseta Vitta 0883,Esportes,CasaMais,240.1,Ativo
+P00884,Ventilador NovaTech 0884,Casa,Maxx,219.52,Ativo
+P00885,Aspirador Maxx 0885,Casa,NovaTech,199.39,Inativo
+P00886,Carteira Prime 0886,Acessórios,CasaMais,156.33,Ativo
+P00887,Teclado CasaMais 0887,Informática,Maxx,435.74,Ativo
+P00888,Carteira Bella 0888,Acessórios,CasaMais,507.13,Inativo
+P00889,Notebook Prime 0889,Eletrônicos,Bella,322.9,Ativo
+P00890,Maquiagem Maxx 0890,Beleza,NovaTech,284.19,Inativo
+P00891,Tablet Bella 0891,Eletrônicos,Maxx,161.85,Inativo
+P00892,Relógio Esportivo Maxx 0892,Esportes,UrbanFit,345.26,Ativo
+P00893,Liquidificador CasaMais 0893,Casa,Maxx,267.09,Ativo
+P00894,Monitor CasaMais 0894,Eletrônicos,Prime,363.49,Ativo
+P00895,Cafeteira NovaTech 0895,Casa,NovaTech,229.88,Ativo
+P00896,Air Fryer Vitta 0896,Casa,Vitta,172.36,Ativo
+P00897,Barbeador CasaMais 0897,Beleza,Bella,231.63,Ativo
+P00898,Smartphone Prime 0898,Eletrônicos,CasaMais,587.96,Inativo
+P00899,Mouse Connecta 0899,Informática,Connecta,101.27,Ativo
+P00900,Liquidificador Vitta 0900,Casa,Bella,255.9,Ativo
+P00901,Mochila Bella 0901,Esportes,NovaTech,131.86,Ativo
+P00902,Jogo de Panelas Connecta 0902,Casa,CasaMais,192.85,Ativo
+P00903,Tablet Vitta 0903,Eletrônicos,Prime,71.01,Ativo
+P00904,Carregador Vitta 0904,Acessórios,Maxx,1053.63,Ativo
+P00905,Liquidificador Connecta 0905,Casa,Vitta,176.46,Ativo
+P00906,Tênis Connecta 0906,Esportes,Prime,110.28,Ativo
+P00907,Ventilador UrbanFit 0907,Casa,Bella,681.06,Ativo
+P00908,Bicicleta Connecta 0908,Esportes,Prime,145.48,Ativo
+P00909,Suporte Maxx 0909,Acessórios,Bella,222.71,Ativo
+P00910,SSD Prime 0910,Informática,Maxx,132.29,Inativo
+P00911,Relógio Esportivo Bella 0911,Esportes,Bella,52.64,Ativo
+P00912,Aspirador Maxx 0912,Casa,NovaTech,216.25,Inativo
+P00913,Tênis Vitta 0913,Esportes,Connecta,272.97,Ativo
+P00914,Cafeteira CasaMais 0914,Casa,Prime,665.82,Ativo
+P00915,Notebook Connecta 0915,Eletrônicos,Connecta,321.12,Inativo
+P00916,Mouse NovaTech 0916,Informática,Maxx,204.63,Ativo
+P00917,Smartphone Vitta 0917,Eletrônicos,Bella,134.75,Ativo
+P00918,Perfume Bella 0918,Beleza,Connecta,306.42,Ativo
+P00919,Tênis NovaTech 0919,Esportes,Prime,658.85,Ativo
+P00920,Maquiagem Vitta 0920,Beleza,Bella,88.34,Inativo
+P00921,Bicicleta Maxx 0921,Esportes,UrbanFit,39.82,Ativo
+P00922,Liquidificador Connecta 0922,Casa,Prime,644.02,Ativo
+P00923,Liquidificador Maxx 0923,Casa,Vitta,90.6,Inativo
+P00924,SSD Maxx 0924,Informática,Connecta,58.28,Inativo
+P00925,Secador Vitta 0925,Beleza,Vitta,192.06,Ativo
+P00926,Smartwatch CasaMais 0926,Eletrônicos,Bella,113.5,Ativo
+P00927,Cafeteira Maxx 0927,Casa,UrbanFit,55.14,Ativo
+P00928,Perfume UrbanFit 0928,Beleza,Vitta,229.24,Inativo
+P00929,Smart TV Vitta 0929,Eletrônicos,CasaMais,206.77,Ativo
+P00930,Webcam CasaMais 0930,Informática,Prime,302.91,Ativo
+P00931,Camiseta Prime 0931,Esportes,Vitta,397.47,Ativo
+P00932,Perfume Bella 0932,Beleza,Connecta,230.96,Ativo
+P00933,Carteira Vitta 0933,Acessórios,NovaTech,370.55,Inativo
+P00934,Mouse UrbanFit 0934,Informática,Maxx,71.19,Ativo
+P00935,Carregador CasaMais 0935,Acessórios,Connecta,41.18,Ativo
+P00936,Smart TV Vitta 0936,Eletrônicos,Vitta,107.26,Ativo
+P00937,Cabo UrbanFit 0937,Acessórios,Bella,165.71,Ativo
+P00938,Cabo Maxx 0938,Acessórios,NovaTech,190.77,Ativo
+P00939,Fone NovaTech 0939,Eletrônicos,Bella,256.48,Ativo
+P00940,Carteira Connecta 0940,Acessórios,Maxx,505.85,Ativo
+P00941,Notebook NovaTech 0941,Eletrônicos,UrbanFit,270.66,Inativo
+P00942,Aspirador UrbanFit 0942,Casa,Bella,221.01,Ativo
+P00943,Suporte Prime 0943,Acessórios,CasaMais,115.09,Ativo
+P00944,Roteador UrbanFit 0944,Informática,NovaTech,452.39,Inativo
+P00945,Cafeteira Bella 0945,Casa,NovaTech,256.04,Ativo
+P00946,Air Fryer UrbanFit 0946,Casa,Bella,113.87,Ativo
+P00947,HD Externo Prime 0947,Informática,CasaMais,76.62,Ativo
+P00948,Mochila Bella 0948,Acessórios,Maxx,416.92,Inativo
+P00949,Ventilador Maxx 0949,Casa,UrbanFit,292.78,Inativo
+P00950,SSD Vitta 0950,Informática,Maxx,481.97,Ativo
+P00951,Liquidificador NovaTech 0951,Casa,Connecta,96.83,Ativo
+P00952,Ventilador Vitta 0952,Casa,Vitta,32.72,Ativo
+P00953,Tablet Connecta 0953,Eletrônicos,Connecta,241.32,Inativo
+P00954,Camiseta Connecta 0954,Esportes,Bella,59.39,Ativo
+P00955,Secador NovaTech 0955,Beleza,Vitta,337.12,Ativo
+P00956,Relógio Esportivo Connecta 0956,Esportes,CasaMais,200.82,Inativo
+P00957,Aspirador UrbanFit 0957,Casa,CasaMais,632.58,Ativo
+P00958,Aspirador NovaTech 0958,Casa,Connecta,208.22,Ativo
+P00959,Carteira CasaMais 0959,Acessórios,Connecta,73.86,Ativo
+P00960,Roteador CasaMais 0960,Informática,CasaMais,303.31,Inativo
+P00961,SSD Bella 0961,Informática,Bella,214.74,Ativo
+P00962,Cabo NovaTech 0962,Acessórios,Maxx,171.6,Ativo
+P00963,Webcam NovaTech 0963,Informática,Connecta,251.12,Ativo
+P00964,Cafeteira Maxx 0964,Casa,CasaMais,240.38,Ativo
+P00965,HD Externo NovaTech 0965,Informática,UrbanFit,122.72,Ativo
+P00966,Cabo CasaMais 0966,Acessórios,Vitta,788.42,Ativo
+P00967,Carregador Bella 0967,Acessórios,Vitta,672.4,Ativo
+P00968,Tênis Prime 0968,Esportes,CasaMais,193.52,Inativo
+P00969,Cafeteira Bella 0969,Casa,CasaMais,173.65,Ativo
+P00970,Perfume Prime 0970,Beleza,Maxx,75.73,Ativo
+P00971,Smartphone Bella 0971,Eletrônicos,Maxx,319.86,Inativo
+P00972,Cafeteira Vitta 0972,Casa,Prime,76.05,Ativo
+P00973,Monitor Prime 0973,Eletrônicos,UrbanFit,170.33,Ativo
+P00974,Mouse Prime 0974,Informática,CasaMais,331.87,Inativo
+P00975,Air Fryer Maxx 0975,Casa,CasaMais,1634.83,Ativo
+P00976,Barbeador Connecta 0976,Beleza,Vitta,202.42,Inativo
+P00977,Webcam Maxx 0977,Informática,CasaMais,419.28,Ativo
+P00978,Jogo de Panelas NovaTech 0978,Casa,CasaMais,86.63,Ativo
+P00979,Ventilador CasaMais 0979,Casa,Prime,127.87,Ativo
+P00980,Mochila CasaMais 0980,Acessórios,Prime,132.21,Ativo
+P00981,Smartwatch NovaTech 0981,Eletrônicos,CasaMais,185.57,Ativo
+P00982,Perfume UrbanFit 0982,Beleza,Bella,67.55,Ativo
+P00983,Air Fryer Vitta 0983,Casa,UrbanFit,146.24,Ativo
+P00984,Smartwatch Connecta 0984,Eletrônicos,NovaTech,61.76,Ativo
+P00985,Jogo de Panelas Bella 0985,Casa,Prime,458.98,Inativo
+P00986,Aspirador Vitta 0986,Casa,Maxx,147.18,Inativo
+P00987,Perfume UrbanFit 0987,Beleza,Maxx,118.35,Ativo
+P00988,Maquiagem UrbanFit 0988,Beleza,Maxx,93.44,Ativo
+P00989,Maquiagem Maxx 0989,Beleza,CasaMais,147.05,Ativo
+P00990,Mouse Bella 0990,Informática,Connecta,258.83,Inativo
+P00991,Carregador NovaTech 0991,Acessórios,Prime,107.28,Ativo
+P00992,Monitor Connecta 0992,Eletrônicos,Maxx,228.78,Ativo
+P00993,Monitor NovaTech 0993,Eletrônicos,UrbanFit,298.78,Ativo
+P00994,Notebook CasaMais 0994,Eletrônicos,CasaMais,185.13,Ativo
+P00995,Mouse Connecta 0995,Informática,CasaMais,82.77,Ativo
+P00996,Carteira NovaTech 0996,Acessórios,Connecta,308.36,Ativo
+P00997,Camiseta Maxx 0997,Esportes,Connecta,301.34,Ativo
+P00998,Relógio Esportivo Vitta 0998,Esportes,Bella,453.11,Ativo
+P00999,Teclado NovaTech 0999,Informática,CasaMais,253.42,Inativo
+P01000,Maquiagem Bella 1000,Beleza,Bella,103.56,Ativo
+P01001,Tênis NovaTech 1001,Esportes,Connecta,210.64,Ativo
+P01002,Webcam CasaMais 1002,Informática,CasaMais,215.87,Ativo
+P01003,Mochila Bella 1003,Acessórios,NovaTech,65.52,Inativo
+P01004,Kit Skincare CasaMais 1004,Beleza,Maxx,46.78,Ativo
+P01005,Perfume Vitta 1005,Beleza,Vitta,315.3,Ativo
+P01006,Barbeador UrbanFit 1006,Beleza,NovaTech,167.01,Inativo
+P01007,Ventilador Connecta 1007,Casa,CasaMais,127.77,Ativo
+P01008,SSD Vitta 1008,Informática,UrbanFit,366.01,Ativo
+P01009,Mochila Connecta 1009,Esportes,NovaTech,473.54,Ativo
+P01010,Camiseta UrbanFit 1010,Esportes,Connecta,105.29,Inativo
+P01011,Secador CasaMais 1011,Beleza,Bella,827.48,Inativo
+P01012,Jogo de Panelas Vitta 1012,Casa,UrbanFit,75.15,Ativo
+P01013,Suporte CasaMais 1013,Acessórios,Vitta,253.41,Ativo
+P01014,Cabo Connecta 1014,Acessórios,CasaMais,156.35,Inativo
+P01015,Carteira Bella 1015,Acessórios,CasaMais,518.4,Ativo
+P01016,Fone NovaTech 1016,Eletrônicos,Vitta,236.16,Inativo
+P01017,SSD Bella 1017,Informática,Maxx,131.75,Ativo
+P01018,Monitor Prime 1018,Eletrônicos,Bella,712.06,Ativo
+P01019,Webcam NovaTech 1019,Informática,Connecta,147.02,Inativo
+P01020,Smartwatch Prime 1020,Eletrônicos,Maxx,227.45,Ativo
+P01021,Liquidificador Prime 1021,Casa,Vitta,49.89,Ativo
+P01022,Barbeador CasaMais 1022,Beleza,Vitta,50.24,Ativo
+P01023,Kit Skincare Vitta 1023,Beleza,Maxx,96.55,Ativo
+P01024,Camiseta CasaMais 1024,Esportes,CasaMais,172.18,Ativo
+P01025,Aspirador Maxx 1025,Casa,NovaTech,667.98,Ativo
+P01026,Roteador NovaTech 1026,Informática,Prime,188.68,Ativo
+P01027,Relógio Esportivo Vitta 1027,Esportes,Maxx,418.81,Ativo
+P01028,Secador Prime 1028,Beleza,Prime,133.0,Ativo
+P01029,Camiseta Vitta 1029,Esportes,CasaMais,665.93,Ativo
+P01030,Monitor Bella 1030,Eletrônicos,Bella,316.74,Ativo
+P01031,Roteador Connecta 1031,Informática,NovaTech,194.04,Inativo
+P01032,Smart TV Vitta 1032,Eletrônicos,Bella,409.69,Ativo
+P01033,Bicicleta Connecta 1033,Esportes,UrbanFit,188.07,Ativo
+P01034,HD Externo Maxx 1034,Informática,Prime,212.86,Ativo
+P01035,Aspirador NovaTech 1035,Casa,CasaMais,308.37,Ativo
+P01036,Ventilador Bella 1036,Casa,NovaTech,287.11,Ativo
+P01037,Tênis NovaTech 1037,Esportes,Bella,70.33,Inativo
+P01038,Barbeador Connecta 1038,Beleza,NovaTech,204.33,Ativo
+P01039,Tênis Prime 1039,Esportes,Vitta,405.72,Ativo
+P01040,Mochila UrbanFit 1040,Acessórios,Prime,226.31,Inativo
+P01041,SSD NovaTech 1041,Informática,NovaTech,245.0,Ativo
+P01042,Teclado UrbanFit 1042,Informática,Maxx,381.36,Ativo
+P01043,Camiseta Bella 1043,Esportes,Vitta,322.24,Ativo
+P01044,HD Externo CasaMais 1044,Informática,Bella,95.82,Inativo
+P01045,Relógio Esportivo Bella 1045,Esportes,Vitta,72.32,Ativo
+P01046,Maquiagem Vitta 1046,Beleza,CasaMais,619.45,Inativo
+P01047,Carteira Vitta 1047,Acessórios,Maxx,153.31,Inativo
+P01048,Fone Maxx 1048,Eletrônicos,Prime,134.75,Ativo
+P01049,SSD Connecta 1049,Informática,UrbanFit,184.47,Inativo
+P01050,Teclado Prime 1050,Informática,Connecta,555.13,Inativo
+P01051,HD Externo CasaMais 1051,Informática,Connecta,193.16,Ativo
+P01052,Carteira Connecta 1052,Acessórios,Prime,187.11,Ativo
+P01053,Kit Skincare NovaTech 1053,Beleza,Prime,130.37,Ativo
+P01054,SSD Prime 1054,Informática,Prime,91.72,Ativo
+P01055,Camiseta UrbanFit 1055,Esportes,Connecta,50.33,Ativo
+P01056,Teclado Vitta 1056,Informática,Maxx,205.59,Ativo
+P01057,Smartphone Bella 1057,Eletrônicos,CasaMais,90.54,Ativo
+P01058,SSD NovaTech 1058,Informática,Maxx,143.24,Ativo
+P01059,Mochila Connecta 1059,Acessórios,UrbanFit,139.33,Ativo
+P01060,Notebook Connecta 1060,Eletrônicos,Connecta,281.7,Ativo
+P01061,Roteador UrbanFit 1061,Informática,CasaMais,23.86,Ativo
+P01062,Tablet Vitta 1062,Eletrônicos,UrbanFit,666.6,Ativo
+P01063,Maquiagem Vitta 1063,Beleza,Bella,242.73,Ativo
+P01064,Secador Bella 1064,Beleza,Vitta,279.63,Ativo
+P01065,Secador Bella 1065,Beleza,NovaTech,91.15,Ativo
+P01066,Air Fryer Prime 1066,Casa,Connecta,172.83,Ativo
+P01067,Maquiagem Connecta 1067,Beleza,Bella,269.74,Ativo
+P01068,Monitor NovaTech 1068,Eletrônicos,Prime,333.22,Ativo
+P01069,SSD Vitta 1069,Informática,CasaMais,325.4,Inativo
+P01070,Secador NovaTech 1070,Beleza,Maxx,246.73,Ativo
+P01071,HD Externo CasaMais 1071,Informática,Connecta,146.09,Inativo
+P01072,Kit Skincare CasaMais 1072,Beleza,Maxx,71.75,Ativo
+P01073,HD Externo Prime 1073,Informática,CasaMais,166.39,Ativo
+P01074,Notebook Prime 1074,Eletrônicos,Vitta,830.7,Ativo
+P01075,Camiseta Vitta 1075,Esportes,UrbanFit,72.16,Ativo
+P01076,Monitor NovaTech 1076,Eletrônicos,UrbanFit,60.87,Ativo
+P01077,Camiseta Prime 1077,Esportes,Prime,883.63,Ativo
+P01078,Smartwatch NovaTech 1078,Eletrônicos,Connecta,208.22,Ativo
+P01079,Tênis Prime 1079,Esportes,Vitta,61.88,Inativo
+P01080,Carteira NovaTech 1080,Acessórios,Prime,210.05,Inativo
+P01081,Liquidificador Prime 1081,Casa,Vitta,160.2,Ativo
+P01082,Aspirador UrbanFit 1082,Casa,CasaMais,666.13,Inativo
+P01083,Relógio Esportivo UrbanFit 1083,Esportes,Bella,593.01,Ativo
+P01084,Bicicleta Maxx 1084,Esportes,NovaTech,267.05,Ativo
+P01085,Carteira Maxx 1085,Acessórios,Vitta,328.11,Ativo
+P01086,Carregador UrbanFit 1086,Acessórios,NovaTech,175.37,Ativo
+P01087,Jogo de Panelas Connecta 1087,Casa,Bella,827.6,Ativo
+P01088,Jogo de Panelas Maxx 1088,Casa,Maxx,214.91,Ativo
+P01089,Kit Skincare Maxx 1089,Beleza,Connecta,118.9,Inativo
+P01090,Maquiagem Prime 1090,Beleza,Bella,534.01,Ativo
+P01091,Tênis Connecta 1091,Esportes,Connecta,246.29,Ativo
+P01092,Maquiagem NovaTech 1092,Beleza,Maxx,178.04,Inativo
+P01093,Camiseta Connecta 1093,Esportes,Vitta,119.76,Ativo
+P01094,Webcam Maxx 1094,Informática,Prime,156.69,Inativo
+P01095,Mochila CasaMais 1095,Esportes,UrbanFit,536.71,Ativo
+P01096,Liquidificador Bella 1096,Casa,Connecta,197.77,Inativo
+P01097,Roteador UrbanFit 1097,Informática,Prime,192.65,Ativo
+P01098,Barbeador UrbanFit 1098,Beleza,UrbanFit,51.12,Inativo
+P01099,Air Fryer CasaMais 1099,Casa,CasaMais,173.64,Inativo
+P01100,Maquiagem Vitta 1100,Beleza,Bella,192.16,Ativo
+P01101,Mochila Connecta 1101,Acessórios,Connecta,255.24,Inativo
+P01102,Carregador Maxx 1102,Acessórios,Connecta,149.08,Inativo
+P01103,Secador Maxx 1103,Beleza,CasaMais,275.53,Ativo
+P01104,Aspirador Maxx 1104,Casa,UrbanFit,335.02,Inativo
+P01105,Maquiagem Vitta 1105,Beleza,NovaTech,120.12,Inativo
+P01106,Suporte Vitta 1106,Acessórios,Maxx,773.91,Ativo
+P01107,Carteira NovaTech 1107,Acessórios,Prime,100.45,Ativo
+P01108,Cabo Maxx 1108,Acessórios,Connecta,54.54,Inativo
+P01109,Cafeteira CasaMais 1109,Casa,Vitta,308.78,Ativo
+P01110,Camiseta Prime 1110,Esportes,CasaMais,221.02,Inativo
+P01111,Tênis Prime 1111,Esportes,Bella,309.77,Ativo
+P01112,Aspirador Connecta 1112,Casa,CasaMais,143.06,Ativo
+P01113,Suporte UrbanFit 1113,Acessórios,Maxx,502.25,Ativo
+P01114,Roteador Vitta 1114,Informática,Vitta,365.12,Ativo
+P01115,Monitor Connecta 1115,Eletrônicos,Vitta,2077.38,Inativo
+P01116,Smartwatch CasaMais 1116,Eletrônicos,Maxx,148.25,Ativo
+P01117,Cabo Bella 1117,Acessórios,Vitta,159.71,Inativo
+P01118,Smartphone Prime 1118,Eletrônicos,Prime,114.35,Ativo
+P01119,Liquidificador Connecta 1119,Casa,CasaMais,100.15,Ativo
+P01120,Camiseta Prime 1120,Esportes,Prime,245.98,Ativo
+P01121,Suporte Prime 1121,Acessórios,Maxx,81.28,Inativo
+P01122,Air Fryer CasaMais 1122,Casa,Vitta,74.56,Ativo
+P01123,Aspirador UrbanFit 1123,Casa,UrbanFit,226.28,Inativo
+P01124,Mochila CasaMais 1124,Acessórios,Bella,551.04,Ativo
+P01125,Teclado NovaTech 1125,Informática,UrbanFit,54.46,Ativo
+P01126,Cabo NovaTech 1126,Acessórios,NovaTech,277.48,Ativo
+P01127,Barbeador Prime 1127,Beleza,Prime,138.31,Inativo
+P01128,Carregador Bella 1128,Acessórios,Connecta,48.6,Ativo
+P01129,Ventilador UrbanFit 1129,Casa,Bella,131.75,Ativo
+P01130,Cafeteira CasaMais 1130,Casa,Bella,413.88,Inativo
+P01131,Maquiagem Connecta 1131,Beleza,Bella,340.45,Ativo
+P01132,HD Externo NovaTech 1132,Informática,Connecta,50.86,Inativo
+P01133,HD Externo Maxx 1133,Informática,Bella,202.48,Ativo
+P01134,SSD Prime 1134,Informática,Connecta,508.86,Ativo
+P01135,Secador Maxx 1135,Beleza,CasaMais,634.13,Ativo
+P01136,Perfume UrbanFit 1136,Beleza,Connecta,177.39,Ativo
+P01137,Maquiagem Connecta 1137,Beleza,Prime,158.11,Ativo
+P01138,Teclado Vitta 1138,Informática,Vitta,297.65,Ativo
+P01139,Webcam Maxx 1139,Informática,Bella,336.56,Ativo
+P01140,Secador Vitta 1140,Beleza,Connecta,120.76,Inativo
+P01141,Cabo Maxx 1141,Acessórios,UrbanFit,212.43,Ativo
+P01142,Mochila Vitta 1142,Esportes,Bella,167.18,Ativo
+P01143,Jogo de Panelas Connecta 1143,Casa,UrbanFit,336.68,Ativo
+P01144,Mouse Maxx 1144,Informática,Connecta,139.27,Ativo
+P01145,Suporte NovaTech 1145,Acessórios,CasaMais,88.91,Ativo
+P01146,Cafeteira NovaTech 1146,Casa,UrbanFit,45.43,Ativo
+P01147,Tênis UrbanFit 1147,Esportes,Prime,262.01,Ativo
+P01148,Liquidificador Connecta 1148,Casa,NovaTech,94.31,Ativo
+P01149,Tênis Vitta 1149,Esportes,Prime,166.01,Ativo
+P01150,Liquidificador NovaTech 1150,Casa,NovaTech,198.1,Inativo
+P01151,Kit Skincare Prime 1151,Beleza,CasaMais,125.87,Ativo
+P01152,Notebook UrbanFit 1152,Eletrônicos,UrbanFit,267.32,Inativo
+P01153,Fone Bella 1153,Eletrônicos,Connecta,1362.48,Inativo
+P01154,Roteador Connecta 1154,Informática,Bella,722.16,Ativo
+P01155,Kit Skincare Connecta 1155,Beleza,Connecta,94.04,Inativo
+P01156,Bicicleta CasaMais 1156,Esportes,NovaTech,114.54,Ativo
+P01157,Cafeteira Bella 1157,Casa,Prime,103.92,Ativo
+P01158,Liquidificador Vitta 1158,Casa,Maxx,59.5,Ativo
+P01159,Monitor Prime 1159,Eletrônicos,Prime,231.45,Ativo
+P01160,Smart TV Vitta 1160,Eletrônicos,Connecta,290.18,Ativo
+P01161,HD Externo Vitta 1161,Informática,UrbanFit,230.43,Ativo
+P01162,Bicicleta CasaMais 1162,Esportes,UrbanFit,232.85,Ativo
+P01163,Air Fryer Prime 1163,Casa,Bella,48.47,Ativo
+P01164,Carteira NovaTech 1164,Acessórios,Maxx,51.26,Ativo
+P01165,Tênis UrbanFit 1165,Esportes,Prime,323.33,Inativo
+P01166,Monitor Vitta 1166,Eletrônicos,Maxx,185.28,Ativo
+P01167,Kit Skincare UrbanFit 1167,Beleza,Connecta,391.46,Ativo
+P01168,Cabo Connecta 1168,Acessórios,Maxx,96.49,Ativo
+P01169,Suporte Maxx 1169,Acessórios,CasaMais,158.53,Ativo
+P01170,Aspirador Prime 1170,Casa,Vitta,136.62,Inativo
+P01171,Aspirador NovaTech 1171,Casa,UrbanFit,663.18,Ativo
+P01172,Liquidificador Connecta 1172,Casa,Prime,669.01,Inativo
+P01173,Ventilador Connecta 1173,Casa,Vitta,92.13,Ativo
+P01174,Relógio Esportivo Bella 1174,Esportes,CasaMais,223.77,Ativo
+P01175,Teclado Bella 1175,Informática,Prime,370.63,Ativo
+P01176,Roteador Maxx 1176,Informática,UrbanFit,420.81,Inativo
+P01177,Jogo de Panelas UrbanFit 1177,Casa,Maxx,110.91,Ativo
+P01178,Smartwatch UrbanFit 1178,Eletrônicos,Maxx,267.37,Ativo
+P01179,Mouse Vitta 1179,Informática,Connecta,221.86,Ativo
+P01180,Monitor NovaTech 1180,Eletrônicos,UrbanFit,186.91,Ativo
+P01181,SSD UrbanFit 1181,Informática,NovaTech,28.2,Inativo
+P01182,Liquidificador Vitta 1182,Casa,Connecta,132.27,Inativo
+P01183,Fone Prime 1183,Eletrônicos,NovaTech,149.74,Ativo
+P01184,SSD Connecta 1184,Informática,Bella,339.89,Ativo
+P01185,Camiseta UrbanFit 1185,Esportes,Bella,169.03,Ativo
+P01186,Notebook CasaMais 1186,Eletrônicos,CasaMais,516.56,Ativo
+P01187,SSD NovaTech 1187,Informática,NovaTech,65.22,Ativo
+P01188,Smart TV UrbanFit 1188,Eletrônicos,UrbanFit,549.36,Ativo
+P01189,Tablet Bella 1189,Eletrônicos,UrbanFit,123.6,Ativo
+P01190,Smart TV Bella 1190,Eletrônicos,Prime,126.55,Inativo
+P01191,Smart TV NovaTech 1191,Eletrônicos,Connecta,158.01,Inativo
+P01192,Perfume Maxx 1192,Beleza,CasaMais,57.51,Ativo
+P01193,Tablet Maxx 1193,Eletrônicos,UrbanFit,214.54,Ativo
+P01194,Barbeador CasaMais 1194,Beleza,CasaMais,1691.91,Inativo
+P01195,Ventilador NovaTech 1195,Casa,Vitta,94.18,Inativo
+P01196,Tênis Vitta 1196,Esportes,Prime,139.04,Inativo
+P01197,Carregador NovaTech 1197,Acessórios,UrbanFit,312.33,Inativo
+P01198,Aspirador Vitta 1198,Casa,NovaTech,187.86,Ativo
+P01199,Tênis UrbanFit 1199,Esportes,Connecta,429.05,Ativo
+P01200,Fone Bella 1200,Eletrônicos,UrbanFit,61.5,Inativo
