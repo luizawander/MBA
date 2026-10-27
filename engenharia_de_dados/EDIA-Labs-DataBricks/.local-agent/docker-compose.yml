@@ -1,0 +1,11 @@
+services:
+  agents:
+    build:
+      context: .
+    # se você renomear o Dockerfile:
+    # dockerfile: Dockerfile
+    working_dir: /workspaces
+    volumes:
+      - "C:/Users/julio.chaves/PycharmProjects/IDE-IDT/EDIA-Labs-DataBricks:/workspaces"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

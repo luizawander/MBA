@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>LAB 4 — Arquiteturas Analíticas Modernas e MLOps</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+  h1 { color: #1a5276; border-bottom: 2px solid #1a5276; padding-bottom: 8px; }
+  h2 { color: #2874a6; margin-top: 32px; }
+  h3 { color: #2e86c1; }
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+  th, td { border: 1px solid #bbb; padding: 10px; text-align: left; }
+  th { background: #eaf2f8; }
+  tr:nth-child(even) { background: #f8f9f9; }
+  blockquote { border-left: 4px solid #1a5276; margin: 16px 0; padding: 12px 20px; background: #f4f6f7; font-style: italic; }
+  code { background: #f4f6f7; padding: 2px 6px; border-radius: 4px; }
+  pre { background: #f4f6f7; padding: 12px; border-radius: 6px; overflow-x: auto; }
+  ul { margin: 8px 0; }
+  .meta { color: #555; font-size: 0.95em; margin-bottom: 24px; }
+</style>
+</head>
+<body>
+
+<h1>LAB 4 — Arquiteturas Analíticas Modernas e MLOps</h1>
+<p class="meta"><strong>Disciplina:</strong> Engenharia de Dados para Inteligência Artificial e Analytics<br>
+<strong>Aula:</strong> 4 — Arquiteturas: Soluções modernas para dados em escala (Cloud, Data Mesh, MLOps)<br>
+<strong>Duração do lab:</strong> ~1h30<br>
+<strong>Entrega:</strong> Arquitetura proposta + justificativa técnica + roadmap MLOps</p>
+
+<h2>Objetivos de Aprendizagem</h2>
+<ol>
+<li>Diferenciar Data Warehouse, Data Lake, Data Lakehouse e Data Mesh</li>
+<li>Posicionar um cenário de negócio na arquitetura mais adequada</li>
+<li>Desenhar um pipeline completo de dados (Bronze/Silver/Gold)</li>
+<li>Entender o papel da engenharia de dados no MLOps</li>
+<li>Propor um roadmap de evolução arquitetural</li>
+</ol>
+
+<h2>Parte 0 — Contexto (5 min)</h2>
+<p>Nos Labs 1-3, o grupo:</p>
+<ul>
+<li>Mapeou o ecossistema (LAB 1)</li>
+<li>Modelou dados transacionais e analíticos (LAB 2)</li>
+<li>Construiu SQL de features e qualidade (LAB 3)</li>
+</ul>
+<p>Agora é hora de <strong>integrar tudo</strong> em uma arquitetura moderna que suporte:</p>
+<ul>
+<li>Crescimento de volume (Big Data)</li>
+<li>Diversidade de fontes (JSON, CSV, APIs, IoT)</li>
+<li>Modelos de ML em produção (MLOps)</li>
+<li>Governança e compliance (LGPD)</li>
+</ul>
+
+<h2>Parte 1 — Arquiteturas Analíticas: O Quadrante (20 min)</h2>
+<h3>Atividade 1.1: Complete o Quadrante (individual, 10 min)</h3>
+<table>
+<tr><th>Arquitetura</th><th>Tipo de Dados</th><th>Schema</th><th>Caso Ideal</th><th>Não Serve Para</th></tr>
+<tr><td>Data Warehouse</td><td>Estruturado apenas</td><td>Schema-on-write</td><td>Relatórios gerenciais, BI tradicional</td><td>Dados brutos de IoT, imagens</td></tr>
+<tr><td>Data Lake</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Data Lakehouse</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Data Mesh</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<h3>Atividade 1.2: Posicione a LODLog (grupo, 10 min)</h3>
+<p>Discuta: <strong>"Qual arquitetura é mais adequada para a LODLog hoje? E daqui a 3 anos?"</strong></p>
+<ul>
+<li><strong>Hoje:</strong> 450 veículos, 12 CDs, 18k entregas/mês</li>
+<li><strong>Daqui a 3 anos:</strong> 1.200 veículos, 35 CDs, 60k entregas/mês, operação em 2 países</li>
+</ul>
+<p>Justifique em 5-8 linhas.</p>
+
+<h2>Parte 2 — Camadas Medallion na Prática (30 min)</h2>
+<h3>Atividade 2.1: Mapeamento Bronze/Silver/Gold (grupo, 15 min)</h3>
+<table>
+<tr><th>Fonte</th><th>Bronze (como chega)</th><th>Silver (o que limpa/enriquece)</th><th>Gold (o que entrega)</th></tr>
+<tr><td>IoT sensores da frota</td><td></td><td></td><td></td></tr>
+<tr><td>Pedidos do TMS</td><td></td><td></td><td></td></tr>
+<tr><td>Estoque do WMS</td><td></td><td></td><td></td></tr>
+<tr><td>APIs externas (clima)</td><td></td><td></td><td></td></tr>
+</table>
+
+<h3>Atividade 2.2: Batch vs Streaming (grupo, 10 min)</h3>
+<table>
+<tr><th>Fluxo de Dados</th><th>Batch / Streaming / Híbrido?</th><th>Justificativa de Negócio</th></tr>
+<tr><td>IoT -&gt; Bronze</td><td></td><td></td></tr>
+<tr><td>Bronze -&gt; Silver</td><td></td><td></td></tr>
+<tr><td>Silver -&gt; Gold (KPIs)</td><td></td><td></td></tr>
+<tr><td>Gold -&gt; ML modelo</td><td></td><td></td></tr>
+<tr><td>Gold -&gt; Dashboard</td><td></td><td></td></tr>
+</table>
+
+<h3>Atividade 2.3: Desenhe o Pipeline (grupo, 5 min)</h3>
+<p>Desenhe o pipeline completo da LODLog: fonte até consumo, indicando Batch vs Streaming e tecnologias sugeridas.</p>
+
+<h2>Parte 3 — MLOps e Engenharia de Dados (25 min)</h2>
+<h3>Atividade 3.1: O Papel do Engenheiro de Dados no MLOps (individual, 10 min)</h3>
+<p>Complete: <strong>"Onde o engenheiro de dados atua em cada etapa?"</strong></p>
+<pre>
+[ Dados Brutos ] -> [ ? ] -> [ Feature Store ] -> [ ? ] -> [ Modelo Treinado ]
+                       ^                              ^
+                  Eng. Dados                    Eng. Dados?
+</pre>
+<p>Complete também para: monitoramento de data drift, retreinamento automatizado, versionamento de dados, pipeline de inferência.</p>
+
+<h3>Atividade 3.2: Proponha um Pipeline MLOps para a LODLog (grupo, 15 min)</h3>
+<p>Escolha <strong>um dos modelos</strong>:</p>
+<ul>
+<li><strong>A.</strong> Predição de Atraso (classificação)</li>
+<li><strong>B.</strong> Manutenção Preditiva (classificação + série temporal)</li>
+</ul>
+<p>Para o modelo escolhido, defina:</p>
+<ol>
+<li>De onde vêm os dados de treinamento (qual camada Gold?)</li>
+<li>Como os dados de treinamento são atualizados (frequência, trigger)</li>
+<li>Como o modelo recebe dados para inferência (batch ou real-time?)</li>
+<li>Como detectar data drift e quando retreinar</li>
+<li>Quem é responsável por cada etapa?</li>
+</ol>
+
+<h2>Parte 4 — Governança e Roadmap (20 min)</h2>
+<h3>Atividade 4.1: Checklist LGPD para o Pipeline (grupo, 10 min)</h3>
+<table>
+<tr><th>Requisito LGPD</th><th>Aplica-se a LODLog?</th><th>Como implementar no pipeline?</th></tr>
+<tr><td>Consentimento do titular</td><td></td><td></td></tr>
+<tr><td>Finalidade determinada</td><td></td><td></td></tr>
+<tr><td>Necessidade/adequação</td><td></td><td></td></tr>
+<tr><td>Anonimização de dados sensíveis</td><td></td><td></td></tr>
+<tr><td>Direito de acesso</td><td></td><td></td></tr>
+<tr><td>Direito de exclusão</td><td></td><td></td></tr>
+<tr><td>Retenção mínima</td><td></td><td></td></tr>
+<tr><td>Segurança da informação</td><td></td><td></td></tr>
+</table>
+
+<h3>Atividade 4.2: Roadmap de Evolução (grupo, 10 min)</h3>
+<table>
+<tr><th>Fase</th><th>Período</th><th>Objetivo</th><th>Arquitetura</th><th>Tecnologias Sugeridas</th></tr>
+<tr><td>1 (MVP)</td><td>Meses 1-3</td><td></td><td></td><td></td></tr>
+<tr><td>2 (Escala)</td><td>Meses 4-9</td><td></td><td></td><td></td></tr>
+<tr><td>3 (IA nativa)</td><td>Meses 10-18</td><td></td><td></td><td></td></tr>
+</table>
+
+<h2>Parte 5 — Entrega do Grupo (10 min)</h2>
+<h3>Produto do LAB 4</h3>
+<ol>
+<li><strong>Arquitetura escolhida</strong> para a LODLog com justificativa</li>
+<li><strong>Diagrama Bronze/Silver/Gold</strong> com pelo menos 3 fontes mapeadas</li>
+<li><strong>Pipeline MLOps</strong> para um dos modelos (A ou B)</li>
+<li><strong>Checklist LGPD</strong> preenchido</li>
+<li><strong>Roadmap</strong> de 3 fases</li>
+</ol>
+
+<h3>Rubrica de Avaliação do LAB 4 (compõe 15% da nota do projeto em grupo)</h3>
+<table>
+<tr><th>Critério</th><th>Peso</th><th>Excelente</th><th>Satisfatório</th><th>Insatisfatório</th></tr>
+<tr><td>Escolha arquitetural</td><td>20%</td><td>Justificativa sólida, considera crescimento</td><td>Escolha razoável, justificativa genérica</td><td>Escolha inadequada</td></tr>
+<tr><td>Camadas Medallion</td><td>20%</td><td>3+ fontes mapeadas com clareza</td><td>2 fontes, alguma confusão</td><td>&lt; 2 fontes</td></tr>
+<tr><td>MLOps</td><td>25%</td><td>Pipeline completo, papéis claros, drift monitorado</td><td>Pipeline básico, falta monitoramento</td><td>Sem pipeline</td></tr>
+<tr><td>Governança/LGPD</td><td>20%</td><td>Checklist completo, implementações concretas</td><td>Checklist parcial</td><td>Incompleto ou incorreto</td></tr>
+<tr><td>Roadmap</td><td>15%</td><td>3 fases realistas, tecnologias adequadas</td><td>3 fases, tecnologias genéricas</td><td>&lt; 3 fases</td></tr>
+</table>
+
+<blockquote>
+<strong>Dica do Professor:</strong> Não existe arquitetura perfeita — existe arquitetura adequada ao momento da empresa. Uma startup pode começar com um Data Lake simples em S3 + Athena. Uma empresa em crescimento precisa de um Lakehouse com Delta Lake. Uma multinacional com múltiplos domínios precisa considerar Data Mesh. O importante é justificar sua escolha com base no cenário de negócio, não no hype tecnológico.
+</blockquote>
+
+</body>
+</html>
